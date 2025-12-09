@@ -1,0 +1,3939 @@
+{
+  "generatedAt": "2025-12-09T18:58:19.765Z",
+  "categories": [
+    {
+      "id": "Accessories",
+      "name": "Accessories",
+      "images": [
+        {
+          "path": "Accessories/Art Det 1.png",
+          "fileName": "Art Det 1.png"
+        },
+        {
+          "path": "Accessories/Art Det 2.png",
+          "fileName": "Art Det 2.png"
+        },
+        {
+          "path": "Accessories/Art Det 3.png",
+          "fileName": "Art Det 3.png"
+        },
+        {
+          "path": "Accessories/Art Det 4.png",
+          "fileName": "Art Det 4.png"
+        },
+        {
+          "path": "Accessories/Art Det 5.png",
+          "fileName": "Art Det 5.png"
+        },
+        {
+          "path": "Accessories/Art Det 6.png",
+          "fileName": "Art Det 6.png"
+        },
+        {
+          "path": "Accessories/Art fls 7.png",
+          "fileName": "Art fls 7.png"
+        },
+        {
+          "path": "Accessories/Art lfs 1.png",
+          "fileName": "Art lfs 1.png"
+        },
+        {
+          "path": "Accessories/Art lfs 2.png",
+          "fileName": "Art lfs 2.png"
+        },
+        {
+          "path": "Accessories/Art lfs 3.png",
+          "fileName": "Art lfs 3.png"
+        },
+        {
+          "path": "Accessories/Art lfs 4.png",
+          "fileName": "Art lfs 4.png"
+        },
+        {
+          "path": "Accessories/Art lfs 5.png",
+          "fileName": "Art lfs 5.png"
+        },
+        {
+          "path": "Accessories/Art lfs 6.png",
+          "fileName": "Art lfs 6.png"
+        },
+        {
+          "path": "Accessories/Art lfs 8.png",
+          "fileName": "Art lfs 8.png"
+        },
+        {
+          "path": "Accessories/Art Silo bck.png",
+          "fileName": "Art Silo bck.png"
+        },
+        {
+          "path": "Accessories/Art Silo frt.png",
+          "fileName": "Art Silo frt.png"
+        },
+        {
+          "path": "Accessories/Art Silo qtr.png",
+          "fileName": "Art Silo qtr.png"
+        },
+        {
+          "path": "Accessories/Art silo sid.png",
+          "fileName": "Art silo sid.png"
+        },
+        {
+          "path": "Accessories/Basket Det 1.png",
+          "fileName": "Basket Det 1.png"
+        },
+        {
+          "path": "Accessories/Basket Det 2.png",
+          "fileName": "Basket Det 2.png"
+        },
+        {
+          "path": "Accessories/Basket Det 3.png",
+          "fileName": "Basket Det 3.png"
+        },
+        {
+          "path": "Accessories/Basket Det 4.png",
+          "fileName": "Basket Det 4.png"
+        },
+        {
+          "path": "Accessories/Basket lfs 1.png",
+          "fileName": "Basket lfs 1.png"
+        },
+        {
+          "path": "Accessories/basket lfs 2.png",
+          "fileName": "basket lfs 2.png"
+        },
+        {
+          "path": "Accessories/Basket lfs 3.png",
+          "fileName": "Basket lfs 3.png"
+        },
+        {
+          "path": "Accessories/Basket lfs 4.png",
+          "fileName": "Basket lfs 4.png"
+        },
+        {
+          "path": "Accessories/Basket lfs 5.png",
+          "fileName": "Basket lfs 5.png"
+        },
+        {
+          "path": "Accessories/Basket lfs 6.png",
+          "fileName": "Basket lfs 6.png"
+        },
+        {
+          "path": "Accessories/Basket lfs 7.png",
+          "fileName": "Basket lfs 7.png"
+        },
+        {
+          "path": "Accessories/Basket lfs 8.png",
+          "fileName": "Basket lfs 8.png"
+        },
+        {
+          "path": "Accessories/Basket silo Bck.png",
+          "fileName": "Basket silo Bck.png"
+        },
+        {
+          "path": "Accessories/Basket Silo Frt.png",
+          "fileName": "Basket Silo Frt.png"
+        },
+        {
+          "path": "Accessories/Basket Silo Qtr.png",
+          "fileName": "Basket Silo Qtr.png"
+        },
+        {
+          "path": "Accessories/Basket Silo Sid.png",
+          "fileName": "Basket Silo Sid.png"
+        },
+        {
+          "path": "Accessories/Basket Silo Top.png",
+          "fileName": "Basket Silo Top.png"
+        },
+        {
+          "path": "Accessories/MJ Art.jpg",
+          "fileName": "MJ Art.jpg"
+        },
+        {
+          "path": "Accessories/MJ Basket.jpg",
+          "fileName": "MJ Basket.jpg"
+        },
+        {
+          "path": "Accessories/MJ Sculpture.jpg",
+          "fileName": "MJ Sculpture.jpg"
+        },
+        {
+          "path": "Accessories/MJ Vase.jpg",
+          "fileName": "MJ Vase.jpg"
+        },
+        {
+          "path": "Accessories/Sculpture Det 1.png",
+          "fileName": "Sculpture Det 1.png"
+        },
+        {
+          "path": "Accessories/Sculpture Det 2.png",
+          "fileName": "Sculpture Det 2.png"
+        },
+        {
+          "path": "Accessories/Sculpture Det 3.png",
+          "fileName": "Sculpture Det 3.png"
+        },
+        {
+          "path": "Accessories/Sculpture Det 4.png",
+          "fileName": "Sculpture Det 4.png"
+        },
+        {
+          "path": "Accessories/Sculpture Det 5.png",
+          "fileName": "Sculpture Det 5.png"
+        },
+        {
+          "path": "Accessories/Sculpture Det 6.png",
+          "fileName": "Sculpture Det 6.png"
+        },
+        {
+          "path": "Accessories/Sculpture lfs 1.png",
+          "fileName": "Sculpture lfs 1.png"
+        },
+        {
+          "path": "Accessories/Sculpture lfs 2.png",
+          "fileName": "Sculpture lfs 2.png"
+        },
+        {
+          "path": "Accessories/Sculpture lfs 3.png",
+          "fileName": "Sculpture lfs 3.png"
+        },
+        {
+          "path": "Accessories/Sculpture lfs 4.png",
+          "fileName": "Sculpture lfs 4.png"
+        },
+        {
+          "path": "Accessories/Sculpture lfs 5.png",
+          "fileName": "Sculpture lfs 5.png"
+        },
+        {
+          "path": "Accessories/Sculpture lfs 6.png",
+          "fileName": "Sculpture lfs 6.png"
+        },
+        {
+          "path": "Accessories/Sculpture lfs 7.png",
+          "fileName": "Sculpture lfs 7.png"
+        },
+        {
+          "path": "Accessories/Sculpture lfs 8.png",
+          "fileName": "Sculpture lfs 8.png"
+        },
+        {
+          "path": "Accessories/Sculpture Silo bck.png",
+          "fileName": "Sculpture Silo bck.png"
+        },
+        {
+          "path": "Accessories/Sculpture Silo qtr.png",
+          "fileName": "Sculpture Silo qtr.png"
+        },
+        {
+          "path": "Accessories/Sculpture Silo Sid.png",
+          "fileName": "Sculpture Silo Sid.png"
+        },
+        {
+          "path": "Accessories/Sculpture Silo Top.png",
+          "fileName": "Sculpture Silo Top.png"
+        },
+        {
+          "path": "Accessories/Vase Det 1.png",
+          "fileName": "Vase Det 1.png"
+        },
+        {
+          "path": "Accessories/Vase Det 3.png",
+          "fileName": "Vase Det 3.png"
+        },
+        {
+          "path": "Accessories/Vase Det 4.png",
+          "fileName": "Vase Det 4.png"
+        },
+        {
+          "path": "Accessories/Vase Det 5.png",
+          "fileName": "Vase Det 5.png"
+        },
+        {
+          "path": "Accessories/Vase Det 6.png",
+          "fileName": "Vase Det 6.png"
+        },
+        {
+          "path": "Accessories/Vase Det2.png",
+          "fileName": "Vase Det2.png"
+        },
+        {
+          "path": "Accessories/Vase Lifestyle 1.png",
+          "fileName": "Vase Lifestyle 1.png"
+        },
+        {
+          "path": "Accessories/Vase Lifestyle 2.png",
+          "fileName": "Vase Lifestyle 2.png"
+        },
+        {
+          "path": "Accessories/Vase Lifestyle 3.png",
+          "fileName": "Vase Lifestyle 3.png"
+        },
+        {
+          "path": "Accessories/Vase Lifestyle 4.png",
+          "fileName": "Vase Lifestyle 4.png"
+        },
+        {
+          "path": "Accessories/Vase Lifestyle 5.png",
+          "fileName": "Vase Lifestyle 5.png"
+        },
+        {
+          "path": "Accessories/Vase Lifestyle 6.png",
+          "fileName": "Vase Lifestyle 6.png"
+        },
+        {
+          "path": "Accessories/Vase Lifestyle 7.png",
+          "fileName": "Vase Lifestyle 7.png"
+        },
+        {
+          "path": "Accessories/Vase Lifestyle 8.png",
+          "fileName": "Vase Lifestyle 8.png"
+        },
+        {
+          "path": "Accessories/Vase Silo Bck.png",
+          "fileName": "Vase Silo Bck.png"
+        },
+        {
+          "path": "Accessories/Vase Silo Frt.png",
+          "fileName": "Vase Silo Frt.png"
+        },
+        {
+          "path": "Accessories/Vase Silo Qtr.png",
+          "fileName": "Vase Silo Qtr.png"
+        },
+        {
+          "path": "Accessories/Vase Silo Sid.png",
+          "fileName": "Vase Silo Sid.png"
+        },
+        {
+          "path": "Accessories/Vase Silo Top.png",
+          "fileName": "Vase Silo Top.png"
+        }
+      ]
+    },
+    {
+      "id": "Apparel",
+      "name": "Apparel",
+      "images": [
+        {
+          "path": "Apparel/Blouse Det 1.png",
+          "fileName": "Blouse Det 1.png"
+        },
+        {
+          "path": "Apparel/Blouse Det 2.png",
+          "fileName": "Blouse Det 2.png"
+        },
+        {
+          "path": "Apparel/Blouse Det 3.png",
+          "fileName": "Blouse Det 3.png"
+        },
+        {
+          "path": "Apparel/Blouse Det 4.png",
+          "fileName": "Blouse Det 4.png"
+        },
+        {
+          "path": "Apparel/Blouse Det 5.png",
+          "fileName": "Blouse Det 5.png"
+        },
+        {
+          "path": "Apparel/Blouse Det 6.png",
+          "fileName": "Blouse Det 6.png"
+        },
+        {
+          "path": "Apparel/Blouse Lifestyle 1.png",
+          "fileName": "Blouse Lifestyle 1.png"
+        },
+        {
+          "path": "Apparel/Blouse Lifestyle 2.png",
+          "fileName": "Blouse Lifestyle 2.png"
+        },
+        {
+          "path": "Apparel/Blouse Lifestyle 3.png",
+          "fileName": "Blouse Lifestyle 3.png"
+        },
+        {
+          "path": "Apparel/Blouse Lifestyle 4.png",
+          "fileName": "Blouse Lifestyle 4.png"
+        },
+        {
+          "path": "Apparel/Blouse Lifestyle 5.png",
+          "fileName": "Blouse Lifestyle 5.png"
+        },
+        {
+          "path": "Apparel/Blouse Lifestyle 6.png",
+          "fileName": "Blouse Lifestyle 6.png"
+        },
+        {
+          "path": "Apparel/Blouse Lifestyle 7.png",
+          "fileName": "Blouse Lifestyle 7.png"
+        },
+        {
+          "path": "Apparel/Blouse Lifestyle 8.png",
+          "fileName": "Blouse Lifestyle 8.png"
+        },
+        {
+          "path": "Apparel/Blouse Silo Bck.png",
+          "fileName": "Blouse Silo Bck.png"
+        },
+        {
+          "path": "Apparel/Blouse Silo Front.png",
+          "fileName": "Blouse Silo Front.png"
+        },
+        {
+          "path": "Apparel/Blouse Silo Qtr.png",
+          "fileName": "Blouse Silo Qtr.png"
+        },
+        {
+          "path": "Apparel/Blouse Silo Sid.png",
+          "fileName": "Blouse Silo Sid.png"
+        },
+        {
+          "path": "Apparel/Blouse Var 1.png",
+          "fileName": "Blouse Var 1.png"
+        },
+        {
+          "path": "Apparel/Blouse Var 2.png",
+          "fileName": "Blouse Var 2.png"
+        },
+        {
+          "path": "Apparel/Coat Detail 1.png",
+          "fileName": "Coat Detail 1.png"
+        },
+        {
+          "path": "Apparel/Coat Detail 2.png",
+          "fileName": "Coat Detail 2.png"
+        },
+        {
+          "path": "Apparel/Coat Detail 3.png",
+          "fileName": "Coat Detail 3.png"
+        },
+        {
+          "path": "Apparel/Coat Detail 4.png",
+          "fileName": "Coat Detail 4.png"
+        },
+        {
+          "path": "Apparel/Coat Detail 5.png",
+          "fileName": "Coat Detail 5.png"
+        },
+        {
+          "path": "Apparel/Coat Detail 6.png",
+          "fileName": "Coat Detail 6.png"
+        },
+        {
+          "path": "Apparel/Coat Lifestyle 1.png",
+          "fileName": "Coat Lifestyle 1.png"
+        },
+        {
+          "path": "Apparel/Coat Lifestyle 2.png",
+          "fileName": "Coat Lifestyle 2.png"
+        },
+        {
+          "path": "Apparel/Coat Lifestyle 3.png",
+          "fileName": "Coat Lifestyle 3.png"
+        },
+        {
+          "path": "Apparel/Coat Lifestyle 4.png",
+          "fileName": "Coat Lifestyle 4.png"
+        },
+        {
+          "path": "Apparel/Coat Lifestyle 5.png",
+          "fileName": "Coat Lifestyle 5.png"
+        },
+        {
+          "path": "Apparel/Coat Lifestyle 6.png",
+          "fileName": "Coat Lifestyle 6.png"
+        },
+        {
+          "path": "Apparel/Coat Lifestyle 7.png",
+          "fileName": "Coat Lifestyle 7.png"
+        },
+        {
+          "path": "Apparel/Coat Lifestyle 8.png",
+          "fileName": "Coat Lifestyle 8.png"
+        },
+        {
+          "path": "Apparel/Coat Silo Back.png",
+          "fileName": "Coat Silo Back.png"
+        },
+        {
+          "path": "Apparel/Coat Silo Front.png",
+          "fileName": "Coat Silo Front.png"
+        },
+        {
+          "path": "Apparel/Coat Silo Qtr.png",
+          "fileName": "Coat Silo Qtr.png"
+        },
+        {
+          "path": "Apparel/Coat Silo Side.png",
+          "fileName": "Coat Silo Side.png"
+        },
+        {
+          "path": "Apparel/Coat Var 1 Detail.png",
+          "fileName": "Coat Var 1 Detail.png"
+        },
+        {
+          "path": "Apparel/Coat Var 1.png",
+          "fileName": "Coat Var 1.png"
+        },
+        {
+          "path": "Apparel/Coat Var 2 Detail.png",
+          "fileName": "Coat Var 2 Detail.png"
+        },
+        {
+          "path": "Apparel/Coat Var 2.png",
+          "fileName": "Coat Var 2.png"
+        },
+        {
+          "path": "Apparel/Coat Var 3 Detail.png",
+          "fileName": "Coat Var 3 Detail.png"
+        },
+        {
+          "path": "Apparel/Coat Var 3.png",
+          "fileName": "Coat Var 3.png"
+        },
+        {
+          "path": "Apparel/MJ Coat.jpg",
+          "fileName": "MJ Coat.jpg"
+        },
+        {
+          "path": "Apparel/Purse 1.jpg",
+          "fileName": "Purse 1.jpg"
+        },
+        {
+          "path": "Apparel/Purse 10.png",
+          "fileName": "Purse 10.png"
+        },
+        {
+          "path": "Apparel/Purse 11.png",
+          "fileName": "Purse 11.png"
+        },
+        {
+          "path": "Apparel/Purse 2.png",
+          "fileName": "Purse 2.png"
+        },
+        {
+          "path": "Apparel/Purse 3.png",
+          "fileName": "Purse 3.png"
+        },
+        {
+          "path": "Apparel/Purse 4.png",
+          "fileName": "Purse 4.png"
+        },
+        {
+          "path": "Apparel/Purse 5.png",
+          "fileName": "Purse 5.png"
+        },
+        {
+          "path": "Apparel/Purse 6.png",
+          "fileName": "Purse 6.png"
+        },
+        {
+          "path": "Apparel/Purse 7.png",
+          "fileName": "Purse 7.png"
+        },
+        {
+          "path": "Apparel/Purse 8.png",
+          "fileName": "Purse 8.png"
+        },
+        {
+          "path": "Apparel/Purse 9.png",
+          "fileName": "Purse 9.png"
+        },
+        {
+          "path": "Apparel/Purse Det 1.png",
+          "fileName": "Purse Det 1.png"
+        },
+        {
+          "path": "Apparel/Purse Det 2.png",
+          "fileName": "Purse Det 2.png"
+        },
+        {
+          "path": "Apparel/Purse Det 3.png",
+          "fileName": "Purse Det 3.png"
+        },
+        {
+          "path": "Apparel/Purse Det 4.png",
+          "fileName": "Purse Det 4.png"
+        },
+        {
+          "path": "Apparel/Purse Det 5.png",
+          "fileName": "Purse Det 5.png"
+        },
+        {
+          "path": "Apparel/Purse Det 6.png",
+          "fileName": "Purse Det 6.png"
+        },
+        {
+          "path": "Apparel/Purse lfs 1.png",
+          "fileName": "Purse lfs 1.png"
+        },
+        {
+          "path": "Apparel/Purse lfs 2.png",
+          "fileName": "Purse lfs 2.png"
+        },
+        {
+          "path": "Apparel/Purse lfs 3.png",
+          "fileName": "Purse lfs 3.png"
+        },
+        {
+          "path": "Apparel/Purse lfs 4.png",
+          "fileName": "Purse lfs 4.png"
+        },
+        {
+          "path": "Apparel/Purse lfs 5.png",
+          "fileName": "Purse lfs 5.png"
+        },
+        {
+          "path": "Apparel/Purse lfs 6.png",
+          "fileName": "Purse lfs 6.png"
+        },
+        {
+          "path": "Apparel/Purse Silo bck.png",
+          "fileName": "Purse Silo bck.png"
+        },
+        {
+          "path": "Apparel/Purse Silo frt.png",
+          "fileName": "Purse Silo frt.png"
+        },
+        {
+          "path": "Apparel/Purse Silo qtr.png",
+          "fileName": "Purse Silo qtr.png"
+        },
+        {
+          "path": "Apparel/Purse Silo sid.png",
+          "fileName": "Purse Silo sid.png"
+        },
+        {
+          "path": "Apparel/Purse Var 1 Det.png",
+          "fileName": "Purse Var 1 Det.png"
+        },
+        {
+          "path": "Apparel/Purse Var 1.png",
+          "fileName": "Purse Var 1.png"
+        },
+        {
+          "path": "Apparel/Purse Var 2 Det.png",
+          "fileName": "Purse Var 2 Det.png"
+        },
+        {
+          "path": "Apparel/Purse Var 2.png",
+          "fileName": "Purse Var 2.png"
+        },
+        {
+          "path": "Apparel/Purse Var 3 Det.png",
+          "fileName": "Purse Var 3 Det.png"
+        },
+        {
+          "path": "Apparel/Purse Var 3.png",
+          "fileName": "Purse Var 3.png"
+        },
+        {
+          "path": "Apparel/Purse Var 4 Det.png",
+          "fileName": "Purse Var 4 Det.png"
+        },
+        {
+          "path": "Apparel/Purse Var 4.png",
+          "fileName": "Purse Var 4.png"
+        },
+        {
+          "path": "Apparel/Purse Var 5 Det.png",
+          "fileName": "Purse Var 5 Det.png"
+        },
+        {
+          "path": "Apparel/Purse Var 5.png",
+          "fileName": "Purse Var 5.png"
+        },
+        {
+          "path": "Apparel/Purse Var 6 Det.png",
+          "fileName": "Purse Var 6 Det.png"
+        },
+        {
+          "path": "Apparel/Purse Var 6.png",
+          "fileName": "Purse Var 6.png"
+        },
+        {
+          "path": "Apparel/Shoe 1.jpg",
+          "fileName": "Shoe 1.jpg"
+        },
+        {
+          "path": "Apparel/Shoe 2.png",
+          "fileName": "Shoe 2.png"
+        },
+        {
+          "path": "Apparel/Shoe 3.png",
+          "fileName": "Shoe 3.png"
+        },
+        {
+          "path": "Apparel/Shoe 4.png",
+          "fileName": "Shoe 4.png"
+        },
+        {
+          "path": "Apparel/Shoe 5.png",
+          "fileName": "Shoe 5.png"
+        },
+        {
+          "path": "Apparel/Shoe Det 1.png",
+          "fileName": "Shoe Det 1.png"
+        },
+        {
+          "path": "Apparel/Shoe Det 2.png",
+          "fileName": "Shoe Det 2.png"
+        },
+        {
+          "path": "Apparel/Shoe Det 3.png",
+          "fileName": "Shoe Det 3.png"
+        },
+        {
+          "path": "Apparel/Shoe Det 4.png",
+          "fileName": "Shoe Det 4.png"
+        },
+        {
+          "path": "Apparel/Shoe Det 5.png",
+          "fileName": "Shoe Det 5.png"
+        },
+        {
+          "path": "Apparel/Shoe Det 6.png",
+          "fileName": "Shoe Det 6.png"
+        },
+        {
+          "path": "Apparel/Shoe lfs 1.png",
+          "fileName": "Shoe lfs 1.png"
+        },
+        {
+          "path": "Apparel/Shoe Silo bck.png",
+          "fileName": "Shoe Silo bck.png"
+        },
+        {
+          "path": "Apparel/Shoe Silo extra.png",
+          "fileName": "Shoe Silo extra.png"
+        },
+        {
+          "path": "Apparel/Shoe Silo frt.png",
+          "fileName": "Shoe Silo frt.png"
+        },
+        {
+          "path": "Apparel/Shoe Silo qtr.png",
+          "fileName": "Shoe Silo qtr.png"
+        },
+        {
+          "path": "Apparel/Shoe Silo Sid.png",
+          "fileName": "Shoe Silo Sid.png"
+        },
+        {
+          "path": "Apparel/Shoes Det 4.png",
+          "fileName": "Shoes Det 4.png"
+        },
+        {
+          "path": "Apparel/US Blouse Var 1 Det.png",
+          "fileName": "US Blouse Var 1 Det.png"
+        },
+        {
+          "path": "Apparel/US Blouse Var 2 Det.png",
+          "fileName": "US Blouse Var 2 Det.png"
+        },
+        {
+          "path": "Apparel/US Blouse Var 2.png",
+          "fileName": "US Blouse Var 2.png"
+        },
+        {
+          "path": "Apparel/US Blouse Var 3 Det.png",
+          "fileName": "US Blouse Var 3 Det.png"
+        }
+      ]
+    },
+    {
+      "id": "Appliances",
+      "name": "Appliances",
+      "images": [
+        {
+          "path": "Appliances/Air Purifier Det 1.png",
+          "fileName": "Air Purifier Det 1.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Det 2.png",
+          "fileName": "Air Purifier Det 2.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Det 3.png",
+          "fileName": "Air Purifier Det 3.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Det 4.png",
+          "fileName": "Air Purifier Det 4.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Det 5.png",
+          "fileName": "Air Purifier Det 5.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Det 6.png",
+          "fileName": "Air Purifier Det 6.png"
+        },
+        {
+          "path": "Appliances/Air Purifier lfs 1.png",
+          "fileName": "Air Purifier lfs 1.png"
+        },
+        {
+          "path": "Appliances/Air Purifier lfs 2.png",
+          "fileName": "Air Purifier lfs 2.png"
+        },
+        {
+          "path": "Appliances/Air Purifier lfs 3.png",
+          "fileName": "Air Purifier lfs 3.png"
+        },
+        {
+          "path": "Appliances/Air Purifier lfs 4.png",
+          "fileName": "Air Purifier lfs 4.png"
+        },
+        {
+          "path": "Appliances/Air Purifier lfs 5.png",
+          "fileName": "Air Purifier lfs 5.png"
+        },
+        {
+          "path": "Appliances/Air Purifier lfs 6.png",
+          "fileName": "Air Purifier lfs 6.png"
+        },
+        {
+          "path": "Appliances/Air Purifier lfs 7.png",
+          "fileName": "Air Purifier lfs 7.png"
+        },
+        {
+          "path": "Appliances/Air Purifier lfs 8.png",
+          "fileName": "Air Purifier lfs 8.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Silo bck.png",
+          "fileName": "Air Purifier Silo bck.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Silo frt.png",
+          "fileName": "Air Purifier Silo frt.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Silo qtr.png",
+          "fileName": "Air Purifier Silo qtr.png"
+        },
+        {
+          "path": "Appliances/Air Purifier Silo sid.png",
+          "fileName": "Air Purifier Silo sid.png"
+        },
+        {
+          "path": "Appliances/Espresso Det 1.png",
+          "fileName": "Espresso Det 1.png"
+        },
+        {
+          "path": "Appliances/Espresso Det 2.png",
+          "fileName": "Espresso Det 2.png"
+        },
+        {
+          "path": "Appliances/Espresso Det 3.png",
+          "fileName": "Espresso Det 3.png"
+        },
+        {
+          "path": "Appliances/Espresso Det 4.png",
+          "fileName": "Espresso Det 4.png"
+        },
+        {
+          "path": "Appliances/Espresso Det 5.png",
+          "fileName": "Espresso Det 5.png"
+        },
+        {
+          "path": "Appliances/Espresso Det 6.png",
+          "fileName": "Espresso Det 6.png"
+        },
+        {
+          "path": "Appliances/Espresso lfs 1.png",
+          "fileName": "Espresso lfs 1.png"
+        },
+        {
+          "path": "Appliances/Espresso lfs 2.png",
+          "fileName": "Espresso lfs 2.png"
+        },
+        {
+          "path": "Appliances/Espresso lfs 3.png",
+          "fileName": "Espresso lfs 3.png"
+        },
+        {
+          "path": "Appliances/Espresso lfs 4.png",
+          "fileName": "Espresso lfs 4.png"
+        },
+        {
+          "path": "Appliances/Espresso lfs 5.png",
+          "fileName": "Espresso lfs 5.png"
+        },
+        {
+          "path": "Appliances/Espresso lfs 6.png",
+          "fileName": "Espresso lfs 6.png"
+        },
+        {
+          "path": "Appliances/Espresso lfs 7.png",
+          "fileName": "Espresso lfs 7.png"
+        },
+        {
+          "path": "Appliances/Espresso lfs 8.png",
+          "fileName": "Espresso lfs 8.png"
+        },
+        {
+          "path": "Appliances/Espresso Silo bck.png",
+          "fileName": "Espresso Silo bck.png"
+        },
+        {
+          "path": "Appliances/Espresso Silo frt.png",
+          "fileName": "Espresso Silo frt.png"
+        },
+        {
+          "path": "Appliances/Espresso Silo qtr.png",
+          "fileName": "Espresso Silo qtr.png"
+        },
+        {
+          "path": "Appliances/Espresso Silo sid.png",
+          "fileName": "Espresso Silo sid.png"
+        },
+        {
+          "path": "Appliances/Espresso Silo top.png",
+          "fileName": "Espresso Silo top.png"
+        },
+        {
+          "path": "Appliances/MJ Air Purifier.jpg",
+          "fileName": "MJ Air Purifier.jpg"
+        },
+        {
+          "path": "Appliances/MJ Espresso Machine.jpg",
+          "fileName": "MJ Espresso Machine.jpg"
+        },
+        {
+          "path": "Appliances/MJ Espresso.png",
+          "fileName": "MJ Espresso.png"
+        },
+        {
+          "path": "Appliances/MJ Refrigerator.jpg",
+          "fileName": "MJ Refrigerator.jpg"
+        },
+        {
+          "path": "Appliances/MJ Washer.jpg",
+          "fileName": "MJ Washer.jpg"
+        },
+        {
+          "path": "Appliances/Refrigerator Det 1.png",
+          "fileName": "Refrigerator Det 1.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Det 2.png",
+          "fileName": "Refrigerator Det 2.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Det 3.png",
+          "fileName": "Refrigerator Det 3.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Det 4.png",
+          "fileName": "Refrigerator Det 4.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Det 5.png",
+          "fileName": "Refrigerator Det 5.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Det 6.png",
+          "fileName": "Refrigerator Det 6.png"
+        },
+        {
+          "path": "Appliances/Refrigerator lfs 1.png",
+          "fileName": "Refrigerator lfs 1.png"
+        },
+        {
+          "path": "Appliances/Refrigerator lfs 2.png",
+          "fileName": "Refrigerator lfs 2.png"
+        },
+        {
+          "path": "Appliances/Refrigerator lfs 3.png",
+          "fileName": "Refrigerator lfs 3.png"
+        },
+        {
+          "path": "Appliances/Refrigerator lfs 4.png",
+          "fileName": "Refrigerator lfs 4.png"
+        },
+        {
+          "path": "Appliances/Refrigerator lfs 5.png",
+          "fileName": "Refrigerator lfs 5.png"
+        },
+        {
+          "path": "Appliances/Refrigerator lfs 6.png",
+          "fileName": "Refrigerator lfs 6.png"
+        },
+        {
+          "path": "Appliances/Refrigerator lfs 7.png",
+          "fileName": "Refrigerator lfs 7.png"
+        },
+        {
+          "path": "Appliances/Refrigerator lfs 8.png",
+          "fileName": "Refrigerator lfs 8.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Silo bck.png",
+          "fileName": "Refrigerator Silo bck.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Silo frt.png",
+          "fileName": "Refrigerator Silo frt.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Silo qtr.png",
+          "fileName": "Refrigerator Silo qtr.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Silo sid.png",
+          "fileName": "Refrigerator Silo sid.png"
+        },
+        {
+          "path": "Appliances/Refrigerator Silo top.png",
+          "fileName": "Refrigerator Silo top.png"
+        },
+        {
+          "path": "Appliances/Washer Det 1.png",
+          "fileName": "Washer Det 1.png"
+        },
+        {
+          "path": "Appliances/Washer Det 2.png",
+          "fileName": "Washer Det 2.png"
+        },
+        {
+          "path": "Appliances/Washer Det 3.png",
+          "fileName": "Washer Det 3.png"
+        },
+        {
+          "path": "Appliances/Washer Det 4.png",
+          "fileName": "Washer Det 4.png"
+        },
+        {
+          "path": "Appliances/Washer Det 5.png",
+          "fileName": "Washer Det 5.png"
+        },
+        {
+          "path": "Appliances/Washer Det 6.png",
+          "fileName": "Washer Det 6.png"
+        },
+        {
+          "path": "Appliances/Washer lfs 1.png",
+          "fileName": "Washer lfs 1.png"
+        },
+        {
+          "path": "Appliances/Washer lfs 2.png",
+          "fileName": "Washer lfs 2.png"
+        },
+        {
+          "path": "Appliances/Washer lfs 3.png",
+          "fileName": "Washer lfs 3.png"
+        },
+        {
+          "path": "Appliances/Washer lfs 4.png",
+          "fileName": "Washer lfs 4.png"
+        },
+        {
+          "path": "Appliances/Washer lfs 5.png",
+          "fileName": "Washer lfs 5.png"
+        },
+        {
+          "path": "Appliances/Washer lfs 6.png",
+          "fileName": "Washer lfs 6.png"
+        },
+        {
+          "path": "Appliances/Washer lfs 7.png",
+          "fileName": "Washer lfs 7.png"
+        },
+        {
+          "path": "Appliances/Washer lfs 8.png",
+          "fileName": "Washer lfs 8.png"
+        },
+        {
+          "path": "Appliances/Washer Silo bck.png",
+          "fileName": "Washer Silo bck.png"
+        },
+        {
+          "path": "Appliances/Washer Silo frt.png",
+          "fileName": "Washer Silo frt.png"
+        },
+        {
+          "path": "Appliances/Washer Silo qtr.png",
+          "fileName": "Washer Silo qtr.png"
+        },
+        {
+          "path": "Appliances/Washer Silo sid.png",
+          "fileName": "Washer Silo sid.png"
+        },
+        {
+          "path": "Appliances/Washer Silo Top.png",
+          "fileName": "Washer Silo Top.png"
+        },
+        {
+          "path": "Appliances/Washer Var 1.png",
+          "fileName": "Washer Var 1.png"
+        },
+        {
+          "path": "Appliances/Washer Var 2.png",
+          "fileName": "Washer Var 2.png"
+        },
+        {
+          "path": "Appliances/Washer Var 3.png",
+          "fileName": "Washer Var 3.png"
+        }
+      ]
+    },
+    {
+      "id": "Bath",
+      "name": "Bath",
+      "images": [
+        {
+          "path": "Bath/MJ Showerhead.jpg",
+          "fileName": "MJ Showerhead.jpg"
+        },
+        {
+          "path": "Bath/MJ Sink.png",
+          "fileName": "MJ Sink.png"
+        },
+        {
+          "path": "Bath/MJ Soap.png",
+          "fileName": "MJ Soap.png"
+        },
+        {
+          "path": "Bath/MJ Tub.jpg",
+          "fileName": "MJ Tub.jpg"
+        },
+        {
+          "path": "Bath/Showerhead Det 1.png",
+          "fileName": "Showerhead Det 1.png"
+        },
+        {
+          "path": "Bath/Showerhead Det 2.png",
+          "fileName": "Showerhead Det 2.png"
+        },
+        {
+          "path": "Bath/Showerhead Det 3.png",
+          "fileName": "Showerhead Det 3.png"
+        },
+        {
+          "path": "Bath/Showerhead Det 4.png",
+          "fileName": "Showerhead Det 4.png"
+        },
+        {
+          "path": "Bath/Showerhead Det 5.png",
+          "fileName": "Showerhead Det 5.png"
+        },
+        {
+          "path": "Bath/Showerhead Det 6.png",
+          "fileName": "Showerhead Det 6.png"
+        },
+        {
+          "path": "Bath/Showerhead Det 7.png",
+          "fileName": "Showerhead Det 7.png"
+        },
+        {
+          "path": "Bath/Showerhead Lfs 1.png",
+          "fileName": "Showerhead Lfs 1.png"
+        },
+        {
+          "path": "Bath/Showerhead Lfs 2.png",
+          "fileName": "Showerhead Lfs 2.png"
+        },
+        {
+          "path": "Bath/Showerhead Lfs 3.png",
+          "fileName": "Showerhead Lfs 3.png"
+        },
+        {
+          "path": "Bath/Showerhead Lfs 4.png",
+          "fileName": "Showerhead Lfs 4.png"
+        },
+        {
+          "path": "Bath/Showerhead Lfs 5.png",
+          "fileName": "Showerhead Lfs 5.png"
+        },
+        {
+          "path": "Bath/Showerhead Lfs 6.png",
+          "fileName": "Showerhead Lfs 6.png"
+        },
+        {
+          "path": "Bath/Showerhead Lfs 7.png",
+          "fileName": "Showerhead Lfs 7.png"
+        },
+        {
+          "path": "Bath/Showerhead Lfs 8.png",
+          "fileName": "Showerhead Lfs 8.png"
+        },
+        {
+          "path": "Bath/Showerhead Silo frt ALT.png",
+          "fileName": "Showerhead Silo frt ALT.png"
+        },
+        {
+          "path": "Bath/Showerhead Silo frt.png",
+          "fileName": "Showerhead Silo frt.png"
+        },
+        {
+          "path": "Bath/Showerhead Silo qtr.png",
+          "fileName": "Showerhead Silo qtr.png"
+        },
+        {
+          "path": "Bath/Showerhead Silo sid.png",
+          "fileName": "Showerhead Silo sid.png"
+        },
+        {
+          "path": "Bath/Showerhead Silo top.png",
+          "fileName": "Showerhead Silo top.png"
+        },
+        {
+          "path": "Bath/Sink Det 1.png",
+          "fileName": "Sink Det 1.png"
+        },
+        {
+          "path": "Bath/Sink Det 2.png",
+          "fileName": "Sink Det 2.png"
+        },
+        {
+          "path": "Bath/Sink Det 3.png",
+          "fileName": "Sink Det 3.png"
+        },
+        {
+          "path": "Bath/Sink Det 4.png",
+          "fileName": "Sink Det 4.png"
+        },
+        {
+          "path": "Bath/Sink Det 5.png",
+          "fileName": "Sink Det 5.png"
+        },
+        {
+          "path": "Bath/Sink Det 6.png",
+          "fileName": "Sink Det 6.png"
+        },
+        {
+          "path": "Bath/Sink Lfs 1.png",
+          "fileName": "Sink Lfs 1.png"
+        },
+        {
+          "path": "Bath/Sink Lfs 2.png",
+          "fileName": "Sink Lfs 2.png"
+        },
+        {
+          "path": "Bath/Sink Lfs 3.png",
+          "fileName": "Sink Lfs 3.png"
+        },
+        {
+          "path": "Bath/Sink Lfs 4.png",
+          "fileName": "Sink Lfs 4.png"
+        },
+        {
+          "path": "Bath/Sink LFS 5.png",
+          "fileName": "Sink LFS 5.png"
+        },
+        {
+          "path": "Bath/Sink Lfs 6.png",
+          "fileName": "Sink Lfs 6.png"
+        },
+        {
+          "path": "Bath/Sink Lfs 7.png",
+          "fileName": "Sink Lfs 7.png"
+        },
+        {
+          "path": "Bath/Sink Lfs 8.png",
+          "fileName": "Sink Lfs 8.png"
+        },
+        {
+          "path": "Bath/Sink Silo bck.png",
+          "fileName": "Sink Silo bck.png"
+        },
+        {
+          "path": "Bath/Sink Silo frt.png",
+          "fileName": "Sink Silo frt.png"
+        },
+        {
+          "path": "Bath/Sink Silo qtr.png",
+          "fileName": "Sink Silo qtr.png"
+        },
+        {
+          "path": "Bath/Sink Silo sid.png",
+          "fileName": "Sink Silo sid.png"
+        },
+        {
+          "path": "Bath/Sink Silo top.png",
+          "fileName": "Sink Silo top.png"
+        },
+        {
+          "path": "Bath/Soap Det 1.png",
+          "fileName": "Soap Det 1.png"
+        },
+        {
+          "path": "Bath/Soap Det 2.png",
+          "fileName": "Soap Det 2.png"
+        },
+        {
+          "path": "Bath/Soap Det 3.png",
+          "fileName": "Soap Det 3.png"
+        },
+        {
+          "path": "Bath/Soap Det 4.png",
+          "fileName": "Soap Det 4.png"
+        },
+        {
+          "path": "Bath/Soap Det 5.png",
+          "fileName": "Soap Det 5.png"
+        },
+        {
+          "path": "Bath/Soap Det 6.png",
+          "fileName": "Soap Det 6.png"
+        },
+        {
+          "path": "Bath/Soap high res.png",
+          "fileName": "Soap high res.png"
+        },
+        {
+          "path": "Bath/Soap Lfs 1.png",
+          "fileName": "Soap Lfs 1.png"
+        },
+        {
+          "path": "Bath/Soap Lfs 2.png",
+          "fileName": "Soap Lfs 2.png"
+        },
+        {
+          "path": "Bath/Soap Lfs 3.png",
+          "fileName": "Soap Lfs 3.png"
+        },
+        {
+          "path": "Bath/Soap Lfs 4.png",
+          "fileName": "Soap Lfs 4.png"
+        },
+        {
+          "path": "Bath/Soap Lfs 5.png",
+          "fileName": "Soap Lfs 5.png"
+        },
+        {
+          "path": "Bath/Soap Lfs 6.png",
+          "fileName": "Soap Lfs 6.png"
+        },
+        {
+          "path": "Bath/Soap Lfs 7.png",
+          "fileName": "Soap Lfs 7.png"
+        },
+        {
+          "path": "Bath/Soap Lfs 8.png",
+          "fileName": "Soap Lfs 8.png"
+        },
+        {
+          "path": "Bath/Soap Silo bck.png",
+          "fileName": "Soap Silo bck.png"
+        },
+        {
+          "path": "Bath/Soap Silo frt.png",
+          "fileName": "Soap Silo frt.png"
+        },
+        {
+          "path": "Bath/Soap Silo qtr.png",
+          "fileName": "Soap Silo qtr.png"
+        },
+        {
+          "path": "Bath/Soap Silo sid.png",
+          "fileName": "Soap Silo sid.png"
+        },
+        {
+          "path": "Bath/Soap Silo top.png",
+          "fileName": "Soap Silo top.png"
+        },
+        {
+          "path": "Bath/Tub Det 1.png",
+          "fileName": "Tub Det 1.png"
+        },
+        {
+          "path": "Bath/Tub Det 2.png",
+          "fileName": "Tub Det 2.png"
+        },
+        {
+          "path": "Bath/Tub Det 3.png",
+          "fileName": "Tub Det 3.png"
+        },
+        {
+          "path": "Bath/Tub Det 4.png",
+          "fileName": "Tub Det 4.png"
+        },
+        {
+          "path": "Bath/Tub Det 5.png",
+          "fileName": "Tub Det 5.png"
+        },
+        {
+          "path": "Bath/Tub Det 6.png",
+          "fileName": "Tub Det 6.png"
+        },
+        {
+          "path": "Bath/Tub Lfs 1.png",
+          "fileName": "Tub Lfs 1.png"
+        },
+        {
+          "path": "Bath/Tub Lfs 2.png",
+          "fileName": "Tub Lfs 2.png"
+        },
+        {
+          "path": "Bath/Tub Lfs 3.png",
+          "fileName": "Tub Lfs 3.png"
+        },
+        {
+          "path": "Bath/Tub Lfs 4.png",
+          "fileName": "Tub Lfs 4.png"
+        },
+        {
+          "path": "Bath/Tub Lfs 5.png",
+          "fileName": "Tub Lfs 5.png"
+        },
+        {
+          "path": "Bath/Tub Lfs 6.png",
+          "fileName": "Tub Lfs 6.png"
+        },
+        {
+          "path": "Bath/Tub Lfs 7.png",
+          "fileName": "Tub Lfs 7.png"
+        },
+        {
+          "path": "Bath/Tub Lfs 8.png",
+          "fileName": "Tub Lfs 8.png"
+        },
+        {
+          "path": "Bath/Tub Silo bck.png",
+          "fileName": "Tub Silo bck.png"
+        },
+        {
+          "path": "Bath/Tub Silo frt.png",
+          "fileName": "Tub Silo frt.png"
+        },
+        {
+          "path": "Bath/Tub Silo qtr.png",
+          "fileName": "Tub Silo qtr.png"
+        },
+        {
+          "path": "Bath/Tub Silo sid.png",
+          "fileName": "Tub Silo sid.png"
+        },
+        {
+          "path": "Bath/Tub Silo top.png",
+          "fileName": "Tub Silo top.png"
+        }
+      ]
+    },
+    {
+      "id": "Case Goods",
+      "name": "Case Goods",
+      "images": [
+        {
+          "path": "Case Goods/Buffet Det 1.png",
+          "fileName": "Buffet Det 1.png"
+        },
+        {
+          "path": "Case Goods/Buffet Det 2.png",
+          "fileName": "Buffet Det 2.png"
+        },
+        {
+          "path": "Case Goods/Buffet Det 3.png",
+          "fileName": "Buffet Det 3.png"
+        },
+        {
+          "path": "Case Goods/Buffet Det 4.png",
+          "fileName": "Buffet Det 4.png"
+        },
+        {
+          "path": "Case Goods/Buffet Det 5.png",
+          "fileName": "Buffet Det 5.png"
+        },
+        {
+          "path": "Case Goods/Buffet Det 6.png",
+          "fileName": "Buffet Det 6.png"
+        },
+        {
+          "path": "Case Goods/Buffet lfs 1.png",
+          "fileName": "Buffet lfs 1.png"
+        },
+        {
+          "path": "Case Goods/Buffet lfs 2.png",
+          "fileName": "Buffet lfs 2.png"
+        },
+        {
+          "path": "Case Goods/Buffet lfs 3.png",
+          "fileName": "Buffet lfs 3.png"
+        },
+        {
+          "path": "Case Goods/Buffet lfs 4.png",
+          "fileName": "Buffet lfs 4.png"
+        },
+        {
+          "path": "Case Goods/Buffet lfs 5.png",
+          "fileName": "Buffet lfs 5.png"
+        },
+        {
+          "path": "Case Goods/Buffet lfs 6.png",
+          "fileName": "Buffet lfs 6.png"
+        },
+        {
+          "path": "Case Goods/Buffet lfs 7.png",
+          "fileName": "Buffet lfs 7.png"
+        },
+        {
+          "path": "Case Goods/Buffet lfs 8.png",
+          "fileName": "Buffet lfs 8.png"
+        },
+        {
+          "path": "Case Goods/Buffet Silo bck.png",
+          "fileName": "Buffet Silo bck.png"
+        },
+        {
+          "path": "Case Goods/Buffet Silo frt.png",
+          "fileName": "Buffet Silo frt.png"
+        },
+        {
+          "path": "Case Goods/Buffet Silo qtr.png",
+          "fileName": "Buffet Silo qtr.png"
+        },
+        {
+          "path": "Case Goods/Buffet Silo sid.png",
+          "fileName": "Buffet Silo sid.png"
+        },
+        {
+          "path": "Case Goods/Buffet Silo top.png",
+          "fileName": "Buffet Silo top.png"
+        },
+        {
+          "path": "Case Goods/Display Det 1.png",
+          "fileName": "Display Det 1.png"
+        },
+        {
+          "path": "Case Goods/Display Det 2.png",
+          "fileName": "Display Det 2.png"
+        },
+        {
+          "path": "Case Goods/Display Det 3.png",
+          "fileName": "Display Det 3.png"
+        },
+        {
+          "path": "Case Goods/Display Det 4.png",
+          "fileName": "Display Det 4.png"
+        },
+        {
+          "path": "Case Goods/Display Det 5.png",
+          "fileName": "Display Det 5.png"
+        },
+        {
+          "path": "Case Goods/Display Det 6.png",
+          "fileName": "Display Det 6.png"
+        },
+        {
+          "path": "Case Goods/Display lfs 1.png",
+          "fileName": "Display lfs 1.png"
+        },
+        {
+          "path": "Case Goods/Display lfs 2.png",
+          "fileName": "Display lfs 2.png"
+        },
+        {
+          "path": "Case Goods/Display lfs 3.png",
+          "fileName": "Display lfs 3.png"
+        },
+        {
+          "path": "Case Goods/Display lfs 4.png",
+          "fileName": "Display lfs 4.png"
+        },
+        {
+          "path": "Case Goods/Display lfs 5.png",
+          "fileName": "Display lfs 5.png"
+        },
+        {
+          "path": "Case Goods/Display lfs 6.png",
+          "fileName": "Display lfs 6.png"
+        },
+        {
+          "path": "Case Goods/Display lfs 7.png",
+          "fileName": "Display lfs 7.png"
+        },
+        {
+          "path": "Case Goods/Display lfs 8.png",
+          "fileName": "Display lfs 8.png"
+        },
+        {
+          "path": "Case Goods/Display Silo bck.png",
+          "fileName": "Display Silo bck.png"
+        },
+        {
+          "path": "Case Goods/Display Silo frt.png",
+          "fileName": "Display Silo frt.png"
+        },
+        {
+          "path": "Case Goods/Display Silo qtr.png",
+          "fileName": "Display Silo qtr.png"
+        },
+        {
+          "path": "Case Goods/Display Silo sid.png",
+          "fileName": "Display Silo sid.png"
+        },
+        {
+          "path": "Case Goods/Dresser Det 1.png",
+          "fileName": "Dresser Det 1.png"
+        },
+        {
+          "path": "Case Goods/Dresser Det 2.png",
+          "fileName": "Dresser Det 2.png"
+        },
+        {
+          "path": "Case Goods/Dresser Det 3.png",
+          "fileName": "Dresser Det 3.png"
+        },
+        {
+          "path": "Case Goods/Dresser Det 4.png",
+          "fileName": "Dresser Det 4.png"
+        },
+        {
+          "path": "Case Goods/Dresser Det 5.png",
+          "fileName": "Dresser Det 5.png"
+        },
+        {
+          "path": "Case Goods/Dresser Det 6.png",
+          "fileName": "Dresser Det 6.png"
+        },
+        {
+          "path": "Case Goods/Dresser lfs 1.png",
+          "fileName": "Dresser lfs 1.png"
+        },
+        {
+          "path": "Case Goods/Dresser lfs 2.png",
+          "fileName": "Dresser lfs 2.png"
+        },
+        {
+          "path": "Case Goods/Dresser lfs 3.png",
+          "fileName": "Dresser lfs 3.png"
+        },
+        {
+          "path": "Case Goods/Dresser lfs 4.png",
+          "fileName": "Dresser lfs 4.png"
+        },
+        {
+          "path": "Case Goods/Dresser lfs 5.png",
+          "fileName": "Dresser lfs 5.png"
+        },
+        {
+          "path": "Case Goods/Dresser lfs 6.png",
+          "fileName": "Dresser lfs 6.png"
+        },
+        {
+          "path": "Case Goods/Dresser lfs 7.png",
+          "fileName": "Dresser lfs 7.png"
+        },
+        {
+          "path": "Case Goods/Dresser lfs 8.png",
+          "fileName": "Dresser lfs 8.png"
+        },
+        {
+          "path": "Case Goods/Dresser Silo bck.png",
+          "fileName": "Dresser Silo bck.png"
+        },
+        {
+          "path": "Case Goods/Dresser Silo frt.png",
+          "fileName": "Dresser Silo frt.png"
+        },
+        {
+          "path": "Case Goods/Dresser Silo qtr.png",
+          "fileName": "Dresser Silo qtr.png"
+        },
+        {
+          "path": "Case Goods/Dresser Silo sid.png",
+          "fileName": "Dresser Silo sid.png"
+        },
+        {
+          "path": "Case Goods/Dresser Silo top.png",
+          "fileName": "Dresser Silo top.png"
+        },
+        {
+          "path": "Case Goods/Dresser Var 1 Det.png",
+          "fileName": "Dresser Var 1 Det.png"
+        },
+        {
+          "path": "Case Goods/Dresser Var 1.png",
+          "fileName": "Dresser Var 1.png"
+        },
+        {
+          "path": "Case Goods/Dresser Var 2 Det.png",
+          "fileName": "Dresser Var 2 Det.png"
+        },
+        {
+          "path": "Case Goods/Dresser Var 2.png",
+          "fileName": "Dresser Var 2.png"
+        },
+        {
+          "path": "Case Goods/Dresser Var 3 Det.png",
+          "fileName": "Dresser Var 3 Det.png"
+        },
+        {
+          "path": "Case Goods/Dresser Var 3.png",
+          "fileName": "Dresser Var 3.png"
+        },
+        {
+          "path": "Case Goods/MJ Buffet.jpg",
+          "fileName": "MJ Buffet.jpg"
+        },
+        {
+          "path": "Case Goods/MJ Display.jpg",
+          "fileName": "MJ Display.jpg"
+        },
+        {
+          "path": "Case Goods/MJ Dresser.jpg",
+          "fileName": "MJ Dresser.jpg"
+        },
+        {
+          "path": "Case Goods/MJ Nightstand.jpg",
+          "fileName": "MJ Nightstand.jpg"
+        },
+        {
+          "path": "Case Goods/Nightstand Det 1.png",
+          "fileName": "Nightstand Det 1.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Det 2.png",
+          "fileName": "Nightstand Det 2.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Det 3.png",
+          "fileName": "Nightstand Det 3.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Det 4.png",
+          "fileName": "Nightstand Det 4.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Det 5.png",
+          "fileName": "Nightstand Det 5.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Det 6.png",
+          "fileName": "Nightstand Det 6.png"
+        },
+        {
+          "path": "Case Goods/Nightstand lfs 1.png",
+          "fileName": "Nightstand lfs 1.png"
+        },
+        {
+          "path": "Case Goods/Nightstand lfs 2.png",
+          "fileName": "Nightstand lfs 2.png"
+        },
+        {
+          "path": "Case Goods/Nightstand lfs 3.png",
+          "fileName": "Nightstand lfs 3.png"
+        },
+        {
+          "path": "Case Goods/Nightstand lfs 4.png",
+          "fileName": "Nightstand lfs 4.png"
+        },
+        {
+          "path": "Case Goods/Nightstand lfs 5.png",
+          "fileName": "Nightstand lfs 5.png"
+        },
+        {
+          "path": "Case Goods/Nightstand lfs 6.png",
+          "fileName": "Nightstand lfs 6.png"
+        },
+        {
+          "path": "Case Goods/Nightstand lfs 7.png",
+          "fileName": "Nightstand lfs 7.png"
+        },
+        {
+          "path": "Case Goods/Nightstand lfs 8.png",
+          "fileName": "Nightstand lfs 8.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Silo bck.png",
+          "fileName": "Nightstand Silo bck.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Silo frt.png",
+          "fileName": "Nightstand Silo frt.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Silo qtr.png",
+          "fileName": "Nightstand Silo qtr.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Silo sid.png",
+          "fileName": "Nightstand Silo sid.png"
+        },
+        {
+          "path": "Case Goods/Nightstand Silo top.png",
+          "fileName": "Nightstand Silo top.png"
+        }
+      ]
+    },
+    {
+      "id": "Electronics",
+      "name": "Electronics",
+      "images": [
+        {
+          "path": "Electronics/Headphones Det 1.png",
+          "fileName": "Headphones Det 1.png"
+        },
+        {
+          "path": "Electronics/Headphones Det 2.png",
+          "fileName": "Headphones Det 2.png"
+        },
+        {
+          "path": "Electronics/Headphones Det 3.png",
+          "fileName": "Headphones Det 3.png"
+        },
+        {
+          "path": "Electronics/Headphones Det 4.png",
+          "fileName": "Headphones Det 4.png"
+        },
+        {
+          "path": "Electronics/Headphones Det 5.png",
+          "fileName": "Headphones Det 5.png"
+        },
+        {
+          "path": "Electronics/Headphones Det 6.png",
+          "fileName": "Headphones Det 6.png"
+        },
+        {
+          "path": "Electronics/Headphones Lfs 1.png",
+          "fileName": "Headphones Lfs 1.png"
+        },
+        {
+          "path": "Electronics/Headphones Lfs 2.png",
+          "fileName": "Headphones Lfs 2.png"
+        },
+        {
+          "path": "Electronics/Headphones Silo bck.png",
+          "fileName": "Headphones Silo bck.png"
+        },
+        {
+          "path": "Electronics/Headphones Silo frt.png",
+          "fileName": "Headphones Silo frt.png"
+        },
+        {
+          "path": "Electronics/Headphones Silo qtr.png",
+          "fileName": "Headphones Silo qtr.png"
+        },
+        {
+          "path": "Electronics/Headphones Silo sid.png",
+          "fileName": "Headphones Silo sid.png"
+        },
+        {
+          "path": "Electronics/MJ Speaker.jpg",
+          "fileName": "MJ Speaker.jpg"
+        },
+        {
+          "path": "Electronics/Monitor Det 1.png",
+          "fileName": "Monitor Det 1.png"
+        },
+        {
+          "path": "Electronics/Monitor Det 2.png",
+          "fileName": "Monitor Det 2.png"
+        },
+        {
+          "path": "Electronics/Monitor Det 3.png",
+          "fileName": "Monitor Det 3.png"
+        },
+        {
+          "path": "Electronics/Monitor Det 4.png",
+          "fileName": "Monitor Det 4.png"
+        },
+        {
+          "path": "Electronics/Monitor Det 5.png",
+          "fileName": "Monitor Det 5.png"
+        },
+        {
+          "path": "Electronics/Monitor Det 6.png",
+          "fileName": "Monitor Det 6.png"
+        },
+        {
+          "path": "Electronics/Monitor Lfs 1.png",
+          "fileName": "Monitor Lfs 1.png"
+        },
+        {
+          "path": "Electronics/Monitor Lfs 2.png",
+          "fileName": "Monitor Lfs 2.png"
+        },
+        {
+          "path": "Electronics/Monitor Lfs 3.png",
+          "fileName": "Monitor Lfs 3.png"
+        },
+        {
+          "path": "Electronics/Monitor Lfs 4.png",
+          "fileName": "Monitor Lfs 4.png"
+        },
+        {
+          "path": "Electronics/Monitor Lfs 5.png",
+          "fileName": "Monitor Lfs 5.png"
+        },
+        {
+          "path": "Electronics/Monitor Lfs 6.png",
+          "fileName": "Monitor Lfs 6.png"
+        },
+        {
+          "path": "Electronics/Monitor Lfs 7.png",
+          "fileName": "Monitor Lfs 7.png"
+        },
+        {
+          "path": "Electronics/Monitor Lfs 8.png",
+          "fileName": "Monitor Lfs 8.png"
+        },
+        {
+          "path": "Electronics/Monitor Silo bck.png",
+          "fileName": "Monitor Silo bck.png"
+        },
+        {
+          "path": "Electronics/Monitor Silo frt.png",
+          "fileName": "Monitor Silo frt.png"
+        },
+        {
+          "path": "Electronics/Monitor Silo qtr.png",
+          "fileName": "Monitor Silo qtr.png"
+        },
+        {
+          "path": "Electronics/Monitor Silo sid.png",
+          "fileName": "Monitor Silo sid.png"
+        },
+        {
+          "path": "Electronics/Monitor Silo top.png",
+          "fileName": "Monitor Silo top.png"
+        },
+        {
+          "path": "Electronics/Speaker Det 1.png",
+          "fileName": "Speaker Det 1.png"
+        },
+        {
+          "path": "Electronics/Speaker Det 2.png",
+          "fileName": "Speaker Det 2.png"
+        },
+        {
+          "path": "Electronics/Speaker Det 4.png",
+          "fileName": "Speaker Det 4.png"
+        },
+        {
+          "path": "Electronics/Speaker Det 5.png",
+          "fileName": "Speaker Det 5.png"
+        },
+        {
+          "path": "Electronics/Speaker Det 6.png",
+          "fileName": "Speaker Det 6.png"
+        },
+        {
+          "path": "Electronics/Speaker lfs 1.png",
+          "fileName": "Speaker lfs 1.png"
+        },
+        {
+          "path": "Electronics/Speaker lfs 2.png",
+          "fileName": "Speaker lfs 2.png"
+        },
+        {
+          "path": "Electronics/Speaker lfs 3.png",
+          "fileName": "Speaker lfs 3.png"
+        },
+        {
+          "path": "Electronics/Speaker lfs 4.png",
+          "fileName": "Speaker lfs 4.png"
+        },
+        {
+          "path": "Electronics/Speaker lfs 5.png",
+          "fileName": "Speaker lfs 5.png"
+        },
+        {
+          "path": "Electronics/Speaker lfs 6.png",
+          "fileName": "Speaker lfs 6.png"
+        },
+        {
+          "path": "Electronics/Speaker lfs 7.png",
+          "fileName": "Speaker lfs 7.png"
+        },
+        {
+          "path": "Electronics/Speaker lfs 8.png",
+          "fileName": "Speaker lfs 8.png"
+        },
+        {
+          "path": "Electronics/Speaker Silo bck.png",
+          "fileName": "Speaker Silo bck.png"
+        },
+        {
+          "path": "Electronics/Speaker Silo frt.png",
+          "fileName": "Speaker Silo frt.png"
+        },
+        {
+          "path": "Electronics/Speaker Silo qtr.png",
+          "fileName": "Speaker Silo qtr.png"
+        },
+        {
+          "path": "Electronics/Speaker Silo sid.png",
+          "fileName": "Speaker Silo sid.png"
+        },
+        {
+          "path": "Electronics/Speaker Silo top.png",
+          "fileName": "Speaker Silo top.png"
+        },
+        {
+          "path": "Electronics/Watch.jpg",
+          "fileName": "Watch.jpg"
+        }
+      ]
+    },
+    {
+      "id": "Food Beverages",
+      "name": "Food Beverages",
+      "images": [
+        {
+          "path": "Food Beverages/Chocolates Silo qtr.png",
+          "fileName": "Chocolates Silo qtr.png"
+        },
+        {
+          "path": "Food Beverages/MJ Drink Can.jpg",
+          "fileName": "MJ Drink Can.jpg"
+        },
+        {
+          "path": "Food Beverages/MJ Oil.jpg",
+          "fileName": "MJ Oil.jpg"
+        },
+        {
+          "path": "Food Beverages/MJ Spices.jpg",
+          "fileName": "MJ Spices.jpg"
+        },
+        {
+          "path": "Food Beverages/Oil Det 1.png",
+          "fileName": "Oil Det 1.png"
+        },
+        {
+          "path": "Food Beverages/Oil Det 2.png",
+          "fileName": "Oil Det 2.png"
+        },
+        {
+          "path": "Food Beverages/Oil Det 3.png",
+          "fileName": "Oil Det 3.png"
+        },
+        {
+          "path": "Food Beverages/Oil Det 4.png",
+          "fileName": "Oil Det 4.png"
+        },
+        {
+          "path": "Food Beverages/Oil Det 5.png",
+          "fileName": "Oil Det 5.png"
+        },
+        {
+          "path": "Food Beverages/Oil Det 6.png",
+          "fileName": "Oil Det 6.png"
+        },
+        {
+          "path": "Food Beverages/Oil Lfs 1.png",
+          "fileName": "Oil Lfs 1.png"
+        },
+        {
+          "path": "Food Beverages/Oil Lfs 2.png",
+          "fileName": "Oil Lfs 2.png"
+        },
+        {
+          "path": "Food Beverages/Oil Lfs 3.png",
+          "fileName": "Oil Lfs 3.png"
+        },
+        {
+          "path": "Food Beverages/Oil Lfs 4.png",
+          "fileName": "Oil Lfs 4.png"
+        },
+        {
+          "path": "Food Beverages/Oil Lfs 5.png",
+          "fileName": "Oil Lfs 5.png"
+        },
+        {
+          "path": "Food Beverages/Oil Lfs 6.png",
+          "fileName": "Oil Lfs 6.png"
+        },
+        {
+          "path": "Food Beverages/Oil Lfs 7.png",
+          "fileName": "Oil Lfs 7.png"
+        },
+        {
+          "path": "Food Beverages/Oil Lfs 8.png",
+          "fileName": "Oil Lfs 8.png"
+        },
+        {
+          "path": "Food Beverages/Oil Silo back.png",
+          "fileName": "Oil Silo back.png"
+        },
+        {
+          "path": "Food Beverages/Oil Silo frt.png",
+          "fileName": "Oil Silo frt.png"
+        },
+        {
+          "path": "Food Beverages/Oil Silo qtr.png",
+          "fileName": "Oil Silo qtr.png"
+        },
+        {
+          "path": "Food Beverages/Oil Silo sid.png",
+          "fileName": "Oil Silo sid.png"
+        },
+        {
+          "path": "Food Beverages/Oil Silo top.png",
+          "fileName": "Oil Silo top.png"
+        }
+      ]
+    },
+    {
+      "id": "Furniture",
+      "name": "Furniture",
+      "images": [
+        {
+          "path": "Furniture/Chair Det 1.png",
+          "fileName": "Chair Det 1.png"
+        },
+        {
+          "path": "Furniture/Chair Det 2.png",
+          "fileName": "Chair Det 2.png"
+        },
+        {
+          "path": "Furniture/Chair Det 3.png",
+          "fileName": "Chair Det 3.png"
+        },
+        {
+          "path": "Furniture/Chair Det 4.png",
+          "fileName": "Chair Det 4.png"
+        },
+        {
+          "path": "Furniture/Chair Det 5.png",
+          "fileName": "Chair Det 5.png"
+        },
+        {
+          "path": "Furniture/Chair Det 6.png",
+          "fileName": "Chair Det 6.png"
+        },
+        {
+          "path": "Furniture/Chair lfs 1.png",
+          "fileName": "Chair lfs 1.png"
+        },
+        {
+          "path": "Furniture/Chair lfs 2.png",
+          "fileName": "Chair lfs 2.png"
+        },
+        {
+          "path": "Furniture/Chair lfs 3.png",
+          "fileName": "Chair lfs 3.png"
+        },
+        {
+          "path": "Furniture/Chair lfs 4.png",
+          "fileName": "Chair lfs 4.png"
+        },
+        {
+          "path": "Furniture/Chair lfs 5.png",
+          "fileName": "Chair lfs 5.png"
+        },
+        {
+          "path": "Furniture/Chair lfs 6.png",
+          "fileName": "Chair lfs 6.png"
+        },
+        {
+          "path": "Furniture/Chair lfs 7.png",
+          "fileName": "Chair lfs 7.png"
+        },
+        {
+          "path": "Furniture/Chair lfs 8.png",
+          "fileName": "Chair lfs 8.png"
+        },
+        {
+          "path": "Furniture/Chair Silo bck.png",
+          "fileName": "Chair Silo bck.png"
+        },
+        {
+          "path": "Furniture/Chair Silo frt.png",
+          "fileName": "Chair Silo frt.png"
+        },
+        {
+          "path": "Furniture/Chair Silo qtr.png",
+          "fileName": "Chair Silo qtr.png"
+        },
+        {
+          "path": "Furniture/Chair Silo sid.png",
+          "fileName": "Chair Silo sid.png"
+        },
+        {
+          "path": "Furniture/Chair Silo Top.png",
+          "fileName": "Chair Silo Top.png"
+        },
+        {
+          "path": "Furniture/Chair Var 1.png",
+          "fileName": "Chair Var 1.png"
+        },
+        {
+          "path": "Furniture/Chair Var 2.png",
+          "fileName": "Chair Var 2.png"
+        },
+        {
+          "path": "Furniture/Chair Var 3.png",
+          "fileName": "Chair Var 3.png"
+        },
+        {
+          "path": "Furniture/Chair Var 4.png",
+          "fileName": "Chair Var 4.png"
+        },
+        {
+          "path": "Furniture/Chair Var 5.png",
+          "fileName": "Chair Var 5.png"
+        },
+        {
+          "path": "Furniture/Chair Var 6.png",
+          "fileName": "Chair Var 6.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Det 1.png",
+          "fileName": "Coffee Table Det 1.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Det 2.png",
+          "fileName": "Coffee Table Det 2.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Det 3.png",
+          "fileName": "Coffee Table Det 3.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Det 4.png",
+          "fileName": "Coffee Table Det 4.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Det 5.png",
+          "fileName": "Coffee Table Det 5.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Det 6.png",
+          "fileName": "Coffee Table Det 6.png"
+        },
+        {
+          "path": "Furniture/Coffee Table lfs 1.png",
+          "fileName": "Coffee Table lfs 1.png"
+        },
+        {
+          "path": "Furniture/Coffee Table lfs 2.png",
+          "fileName": "Coffee Table lfs 2.png"
+        },
+        {
+          "path": "Furniture/Coffee Table lfs 3.png",
+          "fileName": "Coffee Table lfs 3.png"
+        },
+        {
+          "path": "Furniture/Coffee Table lfs 4.png",
+          "fileName": "Coffee Table lfs 4.png"
+        },
+        {
+          "path": "Furniture/Coffee Table lfs 5.png",
+          "fileName": "Coffee Table lfs 5.png"
+        },
+        {
+          "path": "Furniture/Coffee Table lfs 6.png",
+          "fileName": "Coffee Table lfs 6.png"
+        },
+        {
+          "path": "Furniture/Coffee Table lfs 7.png",
+          "fileName": "Coffee Table lfs 7.png"
+        },
+        {
+          "path": "Furniture/Coffee Table lfs 8.png",
+          "fileName": "Coffee Table lfs 8.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Silo bck.png",
+          "fileName": "Coffee Table Silo bck.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Silo frt.png",
+          "fileName": "Coffee Table Silo frt.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Silo qtr.png",
+          "fileName": "Coffee Table Silo qtr.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Silo sid.png",
+          "fileName": "Coffee Table Silo sid.png"
+        },
+        {
+          "path": "Furniture/Coffee Table Silo top.png",
+          "fileName": "Coffee Table Silo top.png"
+        },
+        {
+          "path": "Furniture/Console Det 1.png",
+          "fileName": "Console Det 1.png"
+        },
+        {
+          "path": "Furniture/Console Det 2.png",
+          "fileName": "Console Det 2.png"
+        },
+        {
+          "path": "Furniture/Console Det 3.png",
+          "fileName": "Console Det 3.png"
+        },
+        {
+          "path": "Furniture/Console Det 4.png",
+          "fileName": "Console Det 4.png"
+        },
+        {
+          "path": "Furniture/Console Det 5.png",
+          "fileName": "Console Det 5.png"
+        },
+        {
+          "path": "Furniture/Console Det 6.png",
+          "fileName": "Console Det 6.png"
+        },
+        {
+          "path": "Furniture/Console lfs 1.png",
+          "fileName": "Console lfs 1.png"
+        },
+        {
+          "path": "Furniture/Console lfs 2.png",
+          "fileName": "Console lfs 2.png"
+        },
+        {
+          "path": "Furniture/Console lfs 3.png",
+          "fileName": "Console lfs 3.png"
+        },
+        {
+          "path": "Furniture/Console lfs 4.png",
+          "fileName": "Console lfs 4.png"
+        },
+        {
+          "path": "Furniture/Console lfs 5.png",
+          "fileName": "Console lfs 5.png"
+        },
+        {
+          "path": "Furniture/Console lfs 6.png",
+          "fileName": "Console lfs 6.png"
+        },
+        {
+          "path": "Furniture/Console lfs 7.png",
+          "fileName": "Console lfs 7.png"
+        },
+        {
+          "path": "Furniture/Console lfs 8.png",
+          "fileName": "Console lfs 8.png"
+        },
+        {
+          "path": "Furniture/Console Silo bck.png",
+          "fileName": "Console Silo bck.png"
+        },
+        {
+          "path": "Furniture/Console Silo frt.png",
+          "fileName": "Console Silo frt.png"
+        },
+        {
+          "path": "Furniture/Console Silo qtr.png",
+          "fileName": "Console Silo qtr.png"
+        },
+        {
+          "path": "Furniture/Console Silo sid.png",
+          "fileName": "Console Silo sid.png"
+        },
+        {
+          "path": "Furniture/Console Silo Top.png",
+          "fileName": "Console Silo Top.png"
+        },
+        {
+          "path": "Furniture/Console Var 1 Det.png",
+          "fileName": "Console Var 1 Det.png"
+        },
+        {
+          "path": "Furniture/Console Var 1.png",
+          "fileName": "Console Var 1.png"
+        },
+        {
+          "path": "Furniture/Console Var 2 Det.png",
+          "fileName": "Console Var 2 Det.png"
+        },
+        {
+          "path": "Furniture/Console Var 2.png",
+          "fileName": "Console Var 2.png"
+        },
+        {
+          "path": "Furniture/F2-b.png",
+          "fileName": "F2-b.png"
+        },
+        {
+          "path": "Furniture/F2-frt.jpg",
+          "fileName": "F2-frt.jpg"
+        },
+        {
+          "path": "Furniture/F2-qtr.jpg",
+          "fileName": "F2-qtr.jpg"
+        },
+        {
+          "path": "Furniture/F2-sid.jpg",
+          "fileName": "F2-sid.jpg"
+        },
+        {
+          "path": "Furniture/F2-top.jpg",
+          "fileName": "F2-top.jpg"
+        },
+        {
+          "path": "Furniture/F3-frt.jpg",
+          "fileName": "F3-frt.jpg"
+        },
+        {
+          "path": "Furniture/image 453.jpg",
+          "fileName": "image 453.jpg"
+        },
+        {
+          "path": "Furniture/MJ coffee table.png",
+          "fileName": "MJ coffee table.png"
+        },
+        {
+          "path": "Furniture/MJ Sectional.jpg",
+          "fileName": "MJ Sectional.jpg"
+        },
+        {
+          "path": "Furniture/Sectional Det 1.jpg",
+          "fileName": "Sectional Det 1.jpg"
+        },
+        {
+          "path": "Furniture/Sectional det 2.jpg",
+          "fileName": "Sectional det 2.jpg"
+        },
+        {
+          "path": "Furniture/Sectional Det 3.jpg",
+          "fileName": "Sectional Det 3.jpg"
+        },
+        {
+          "path": "Furniture/Sectional lfs 1.png",
+          "fileName": "Sectional lfs 1.png"
+        },
+        {
+          "path": "Furniture/Sectional lfs 2.png",
+          "fileName": "Sectional lfs 2.png"
+        },
+        {
+          "path": "Furniture/Sectional lfs 3.png",
+          "fileName": "Sectional lfs 3.png"
+        },
+        {
+          "path": "Furniture/Sectional lfs 4.png",
+          "fileName": "Sectional lfs 4.png"
+        },
+        {
+          "path": "Furniture/Sectional lfs 5.png",
+          "fileName": "Sectional lfs 5.png"
+        },
+        {
+          "path": "Furniture/Sectional lfs 6.png",
+          "fileName": "Sectional lfs 6.png"
+        },
+        {
+          "path": "Furniture/Sectional lfs 7.png",
+          "fileName": "Sectional lfs 7.png"
+        },
+        {
+          "path": "Furniture/Sectional lfs 8.png",
+          "fileName": "Sectional lfs 8.png"
+        },
+        {
+          "path": "Furniture/Sectional Silo bck.jpg",
+          "fileName": "Sectional Silo bck.jpg"
+        },
+        {
+          "path": "Furniture/Sectional Silo frt.jpg",
+          "fileName": "Sectional Silo frt.jpg"
+        },
+        {
+          "path": "Furniture/Sectional Silo qtr.jpg",
+          "fileName": "Sectional Silo qtr.jpg"
+        },
+        {
+          "path": "Furniture/Sectional Silo sid.jpg",
+          "fileName": "Sectional Silo sid.jpg"
+        },
+        {
+          "path": "Furniture/Sectional Silo top.jpg",
+          "fileName": "Sectional Silo top.jpg"
+        }
+      ]
+    },
+    {
+      "id": "Kitchen",
+      "name": "Kitchen",
+      "images": [
+        {
+          "path": "Kitchen/Cutting Board Det 1.png",
+          "fileName": "Cutting Board Det 1.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board Det 2.png",
+          "fileName": "Cutting Board Det 2.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board Det 3.png",
+          "fileName": "Cutting Board Det 3.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board Det 4.png",
+          "fileName": "Cutting Board Det 4.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board Det 5.png",
+          "fileName": "Cutting Board Det 5.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board lfs 1.png",
+          "fileName": "Cutting Board lfs 1.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board lfs 2.png",
+          "fileName": "Cutting Board lfs 2.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board lfs 3.png",
+          "fileName": "Cutting Board lfs 3.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board lfs 4.png",
+          "fileName": "Cutting Board lfs 4.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board lfs 5.png",
+          "fileName": "Cutting Board lfs 5.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board lfs 6.png",
+          "fileName": "Cutting Board lfs 6.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board lfs 7.png",
+          "fileName": "Cutting Board lfs 7.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board lfs 8.png",
+          "fileName": "Cutting Board lfs 8.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board Silo bck.png",
+          "fileName": "Cutting Board Silo bck.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board Silo frt.png",
+          "fileName": "Cutting Board Silo frt.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board Silo qtr.png",
+          "fileName": "Cutting Board Silo qtr.png"
+        },
+        {
+          "path": "Kitchen/Cutting Board Silo top.png",
+          "fileName": "Cutting Board Silo top.png"
+        },
+        {
+          "path": "Kitchen/Faucet Det 1.png",
+          "fileName": "Faucet Det 1.png"
+        },
+        {
+          "path": "Kitchen/Faucet det 2.png",
+          "fileName": "Faucet det 2.png"
+        },
+        {
+          "path": "Kitchen/Faucet Det 3.png",
+          "fileName": "Faucet Det 3.png"
+        },
+        {
+          "path": "Kitchen/Faucet Det 4.png",
+          "fileName": "Faucet Det 4.png"
+        },
+        {
+          "path": "Kitchen/Faucet Det 5.png",
+          "fileName": "Faucet Det 5.png"
+        },
+        {
+          "path": "Kitchen/Faucet Det 6.png",
+          "fileName": "Faucet Det 6.png"
+        },
+        {
+          "path": "Kitchen/Faucet lfs 1.png",
+          "fileName": "Faucet lfs 1.png"
+        },
+        {
+          "path": "Kitchen/Faucet lfs 2.png",
+          "fileName": "Faucet lfs 2.png"
+        },
+        {
+          "path": "Kitchen/Faucet lfs 3.png",
+          "fileName": "Faucet lfs 3.png"
+        },
+        {
+          "path": "Kitchen/Faucet lfs 4.png",
+          "fileName": "Faucet lfs 4.png"
+        },
+        {
+          "path": "Kitchen/Faucet lfs 5.png",
+          "fileName": "Faucet lfs 5.png"
+        },
+        {
+          "path": "Kitchen/Faucet lfs 6.png",
+          "fileName": "Faucet lfs 6.png"
+        },
+        {
+          "path": "Kitchen/Faucet lfs 7.png",
+          "fileName": "Faucet lfs 7.png"
+        },
+        {
+          "path": "Kitchen/Faucet lfs 8.png",
+          "fileName": "Faucet lfs 8.png"
+        },
+        {
+          "path": "Kitchen/Faucet Silo bck.png",
+          "fileName": "Faucet Silo bck.png"
+        },
+        {
+          "path": "Kitchen/Faucet Silo frt.png",
+          "fileName": "Faucet Silo frt.png"
+        },
+        {
+          "path": "Kitchen/Faucet Silo sid.png",
+          "fileName": "Faucet Silo sid.png"
+        },
+        {
+          "path": "Kitchen/Faucet Silo top.png",
+          "fileName": "Faucet Silo top.png"
+        },
+        {
+          "path": "Kitchen/Knife Det 1.png",
+          "fileName": "Knife Det 1.png"
+        },
+        {
+          "path": "Kitchen/Knife Det 2.png",
+          "fileName": "Knife Det 2.png"
+        },
+        {
+          "path": "Kitchen/Knife Det 3.png",
+          "fileName": "Knife Det 3.png"
+        },
+        {
+          "path": "Kitchen/Knife Det 4.png",
+          "fileName": "Knife Det 4.png"
+        },
+        {
+          "path": "Kitchen/Knife Det 5.png",
+          "fileName": "Knife Det 5.png"
+        },
+        {
+          "path": "Kitchen/Knife Det 6.png",
+          "fileName": "Knife Det 6.png"
+        },
+        {
+          "path": "Kitchen/Knife lfs 1.png",
+          "fileName": "Knife lfs 1.png"
+        },
+        {
+          "path": "Kitchen/Knife lfs 2.png",
+          "fileName": "Knife lfs 2.png"
+        },
+        {
+          "path": "Kitchen/Knife lfs 3.png",
+          "fileName": "Knife lfs 3.png"
+        },
+        {
+          "path": "Kitchen/Knife lfs 4.png",
+          "fileName": "Knife lfs 4.png"
+        },
+        {
+          "path": "Kitchen/Knife lfs 5.png",
+          "fileName": "Knife lfs 5.png"
+        },
+        {
+          "path": "Kitchen/Knife lfs 6.png",
+          "fileName": "Knife lfs 6.png"
+        },
+        {
+          "path": "Kitchen/Knife lfs 7.png",
+          "fileName": "Knife lfs 7.png"
+        },
+        {
+          "path": "Kitchen/Knife lfs 8.png",
+          "fileName": "Knife lfs 8.png"
+        },
+        {
+          "path": "Kitchen/Knife Silo bck.png",
+          "fileName": "Knife Silo bck.png"
+        },
+        {
+          "path": "Kitchen/Knife Silo frt.png",
+          "fileName": "Knife Silo frt.png"
+        },
+        {
+          "path": "Kitchen/Knife Silo qtr.png",
+          "fileName": "Knife Silo qtr.png"
+        },
+        {
+          "path": "Kitchen/MJ Faucet.jpg",
+          "fileName": "MJ Faucet.jpg"
+        },
+        {
+          "path": "Kitchen/MJ Knife.jpg",
+          "fileName": "MJ Knife.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - Collection Silo Green.jpg",
+          "fileName": "Silver Pot - Collection Silo Green.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - Collection Silo.jpg",
+          "fileName": "Silver Pot - Collection Silo.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - cream elevated silo 2.jpg",
+          "fileName": "Silver Pot - cream elevated silo 2.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - cream elevated silo.jpg",
+          "fileName": "Silver Pot - cream elevated silo.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - detail handle.jpg",
+          "fileName": "Silver Pot - detail handle.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - detail interior.jpg",
+          "fileName": "Silver Pot - detail interior.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - detail lid and handle.jpg",
+          "fileName": "Silver Pot - detail lid and handle.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - Lifestyle 1.jpg",
+          "fileName": "Silver Pot - Lifestyle 1.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - Lifestyle 2.jpg",
+          "fileName": "Silver Pot - Lifestyle 2.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - Lifestyle 3.jpg",
+          "fileName": "Silver Pot - Lifestyle 3.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - Lifestyle 4.jpg",
+          "fileName": "Silver Pot - Lifestyle 4.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - Lifestyle 5.jpg",
+          "fileName": "Silver Pot - Lifestyle 5.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - original silo.jpg",
+          "fileName": "Silver Pot - original silo.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - Stack Collection Silo.jpg",
+          "fileName": "Silver Pot - Stack Collection Silo.jpg"
+        },
+        {
+          "path": "Kitchen/Silver Pot - top down silo.jpg",
+          "fileName": "Silver Pot - top down silo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "Lighting",
+      "name": "Lighting",
+      "images": [
+        {
+          "path": "Lighting/Floor Lamp Silo frt.png",
+          "fileName": "Floor Lamp Silo frt.png"
+        },
+        {
+          "path": "Lighting/MJ Floor Lamp.png",
+          "fileName": "MJ Floor Lamp.png"
+        },
+        {
+          "path": "Lighting/Pendant Silo frt.png",
+          "fileName": "Pendant Silo frt.png"
+        },
+        {
+          "path": "Lighting/Sconce 1.png",
+          "fileName": "Sconce 1.png"
+        },
+        {
+          "path": "Lighting/Sconce 10.png",
+          "fileName": "Sconce 10.png"
+        },
+        {
+          "path": "Lighting/Sconce 100.png",
+          "fileName": "Sconce 100.png"
+        },
+        {
+          "path": "Lighting/Sconce 101.png",
+          "fileName": "Sconce 101.png"
+        },
+        {
+          "path": "Lighting/Sconce 102.png",
+          "fileName": "Sconce 102.png"
+        },
+        {
+          "path": "Lighting/Sconce 103.png",
+          "fileName": "Sconce 103.png"
+        },
+        {
+          "path": "Lighting/Sconce 104.png",
+          "fileName": "Sconce 104.png"
+        },
+        {
+          "path": "Lighting/Sconce 105.png",
+          "fileName": "Sconce 105.png"
+        },
+        {
+          "path": "Lighting/Sconce 106.png",
+          "fileName": "Sconce 106.png"
+        },
+        {
+          "path": "Lighting/Sconce 107.png",
+          "fileName": "Sconce 107.png"
+        },
+        {
+          "path": "Lighting/Sconce 108.png",
+          "fileName": "Sconce 108.png"
+        },
+        {
+          "path": "Lighting/Sconce 109.png",
+          "fileName": "Sconce 109.png"
+        },
+        {
+          "path": "Lighting/Sconce 11.png",
+          "fileName": "Sconce 11.png"
+        },
+        {
+          "path": "Lighting/Sconce 110.png",
+          "fileName": "Sconce 110.png"
+        },
+        {
+          "path": "Lighting/Sconce 111.png",
+          "fileName": "Sconce 111.png"
+        },
+        {
+          "path": "Lighting/Sconce 112.png",
+          "fileName": "Sconce 112.png"
+        },
+        {
+          "path": "Lighting/Sconce 113.png",
+          "fileName": "Sconce 113.png"
+        },
+        {
+          "path": "Lighting/Sconce 114.png",
+          "fileName": "Sconce 114.png"
+        },
+        {
+          "path": "Lighting/Sconce 115.png",
+          "fileName": "Sconce 115.png"
+        },
+        {
+          "path": "Lighting/Sconce 116.png",
+          "fileName": "Sconce 116.png"
+        },
+        {
+          "path": "Lighting/Sconce 117.png",
+          "fileName": "Sconce 117.png"
+        },
+        {
+          "path": "Lighting/Sconce 118.png",
+          "fileName": "Sconce 118.png"
+        },
+        {
+          "path": "Lighting/Sconce 119.png",
+          "fileName": "Sconce 119.png"
+        },
+        {
+          "path": "Lighting/Sconce 12.png",
+          "fileName": "Sconce 12.png"
+        },
+        {
+          "path": "Lighting/Sconce 120.png",
+          "fileName": "Sconce 120.png"
+        },
+        {
+          "path": "Lighting/Sconce 121.png",
+          "fileName": "Sconce 121.png"
+        },
+        {
+          "path": "Lighting/Sconce 122.png",
+          "fileName": "Sconce 122.png"
+        },
+        {
+          "path": "Lighting/Sconce 123.png",
+          "fileName": "Sconce 123.png"
+        },
+        {
+          "path": "Lighting/Sconce 124.png",
+          "fileName": "Sconce 124.png"
+        },
+        {
+          "path": "Lighting/Sconce 125.png",
+          "fileName": "Sconce 125.png"
+        },
+        {
+          "path": "Lighting/Sconce 126.png",
+          "fileName": "Sconce 126.png"
+        },
+        {
+          "path": "Lighting/Sconce 127.png",
+          "fileName": "Sconce 127.png"
+        },
+        {
+          "path": "Lighting/Sconce 128.png",
+          "fileName": "Sconce 128.png"
+        },
+        {
+          "path": "Lighting/Sconce 129.png",
+          "fileName": "Sconce 129.png"
+        },
+        {
+          "path": "Lighting/Sconce 13.png",
+          "fileName": "Sconce 13.png"
+        },
+        {
+          "path": "Lighting/Sconce 130.png",
+          "fileName": "Sconce 130.png"
+        },
+        {
+          "path": "Lighting/Sconce 14.png",
+          "fileName": "Sconce 14.png"
+        },
+        {
+          "path": "Lighting/Sconce 15.png",
+          "fileName": "Sconce 15.png"
+        },
+        {
+          "path": "Lighting/Sconce 16.png",
+          "fileName": "Sconce 16.png"
+        },
+        {
+          "path": "Lighting/Sconce 17.png",
+          "fileName": "Sconce 17.png"
+        },
+        {
+          "path": "Lighting/Sconce 18.png",
+          "fileName": "Sconce 18.png"
+        },
+        {
+          "path": "Lighting/Sconce 19.png",
+          "fileName": "Sconce 19.png"
+        },
+        {
+          "path": "Lighting/Sconce 2.png",
+          "fileName": "Sconce 2.png"
+        },
+        {
+          "path": "Lighting/Sconce 20.png",
+          "fileName": "Sconce 20.png"
+        },
+        {
+          "path": "Lighting/Sconce 21.png",
+          "fileName": "Sconce 21.png"
+        },
+        {
+          "path": "Lighting/Sconce 22.png",
+          "fileName": "Sconce 22.png"
+        },
+        {
+          "path": "Lighting/Sconce 23.png",
+          "fileName": "Sconce 23.png"
+        },
+        {
+          "path": "Lighting/Sconce 24.png",
+          "fileName": "Sconce 24.png"
+        },
+        {
+          "path": "Lighting/Sconce 25.png",
+          "fileName": "Sconce 25.png"
+        },
+        {
+          "path": "Lighting/Sconce 26.png",
+          "fileName": "Sconce 26.png"
+        },
+        {
+          "path": "Lighting/Sconce 27.png",
+          "fileName": "Sconce 27.png"
+        },
+        {
+          "path": "Lighting/Sconce 28.png",
+          "fileName": "Sconce 28.png"
+        },
+        {
+          "path": "Lighting/Sconce 29.png",
+          "fileName": "Sconce 29.png"
+        },
+        {
+          "path": "Lighting/Sconce 3.png",
+          "fileName": "Sconce 3.png"
+        },
+        {
+          "path": "Lighting/Sconce 30.png",
+          "fileName": "Sconce 30.png"
+        },
+        {
+          "path": "Lighting/Sconce 31.png",
+          "fileName": "Sconce 31.png"
+        },
+        {
+          "path": "Lighting/Sconce 32.png",
+          "fileName": "Sconce 32.png"
+        },
+        {
+          "path": "Lighting/Sconce 33.png",
+          "fileName": "Sconce 33.png"
+        },
+        {
+          "path": "Lighting/Sconce 34.png",
+          "fileName": "Sconce 34.png"
+        },
+        {
+          "path": "Lighting/Sconce 35.png",
+          "fileName": "Sconce 35.png"
+        },
+        {
+          "path": "Lighting/Sconce 36.png",
+          "fileName": "Sconce 36.png"
+        },
+        {
+          "path": "Lighting/Sconce 37.png",
+          "fileName": "Sconce 37.png"
+        },
+        {
+          "path": "Lighting/Sconce 38.png",
+          "fileName": "Sconce 38.png"
+        },
+        {
+          "path": "Lighting/Sconce 39.png",
+          "fileName": "Sconce 39.png"
+        },
+        {
+          "path": "Lighting/Sconce 4.png",
+          "fileName": "Sconce 4.png"
+        },
+        {
+          "path": "Lighting/Sconce 40.png",
+          "fileName": "Sconce 40.png"
+        },
+        {
+          "path": "Lighting/Sconce 41.png",
+          "fileName": "Sconce 41.png"
+        },
+        {
+          "path": "Lighting/Sconce 42.png",
+          "fileName": "Sconce 42.png"
+        },
+        {
+          "path": "Lighting/Sconce 43.png",
+          "fileName": "Sconce 43.png"
+        },
+        {
+          "path": "Lighting/Sconce 44.png",
+          "fileName": "Sconce 44.png"
+        },
+        {
+          "path": "Lighting/Sconce 45.png",
+          "fileName": "Sconce 45.png"
+        },
+        {
+          "path": "Lighting/Sconce 46.png",
+          "fileName": "Sconce 46.png"
+        },
+        {
+          "path": "Lighting/Sconce 47.png",
+          "fileName": "Sconce 47.png"
+        },
+        {
+          "path": "Lighting/Sconce 48.png",
+          "fileName": "Sconce 48.png"
+        },
+        {
+          "path": "Lighting/Sconce 49.png",
+          "fileName": "Sconce 49.png"
+        },
+        {
+          "path": "Lighting/Sconce 5.png",
+          "fileName": "Sconce 5.png"
+        },
+        {
+          "path": "Lighting/Sconce 50.png",
+          "fileName": "Sconce 50.png"
+        },
+        {
+          "path": "Lighting/Sconce 51.png",
+          "fileName": "Sconce 51.png"
+        },
+        {
+          "path": "Lighting/Sconce 52.png",
+          "fileName": "Sconce 52.png"
+        },
+        {
+          "path": "Lighting/Sconce 53.png",
+          "fileName": "Sconce 53.png"
+        },
+        {
+          "path": "Lighting/Sconce 54.png",
+          "fileName": "Sconce 54.png"
+        },
+        {
+          "path": "Lighting/Sconce 55.png",
+          "fileName": "Sconce 55.png"
+        },
+        {
+          "path": "Lighting/Sconce 56.png",
+          "fileName": "Sconce 56.png"
+        },
+        {
+          "path": "Lighting/Sconce 57.png",
+          "fileName": "Sconce 57.png"
+        },
+        {
+          "path": "Lighting/Sconce 58.png",
+          "fileName": "Sconce 58.png"
+        },
+        {
+          "path": "Lighting/Sconce 59.png",
+          "fileName": "Sconce 59.png"
+        },
+        {
+          "path": "Lighting/Sconce 6.png",
+          "fileName": "Sconce 6.png"
+        },
+        {
+          "path": "Lighting/Sconce 60.png",
+          "fileName": "Sconce 60.png"
+        },
+        {
+          "path": "Lighting/Sconce 61.png",
+          "fileName": "Sconce 61.png"
+        },
+        {
+          "path": "Lighting/Sconce 62.png",
+          "fileName": "Sconce 62.png"
+        },
+        {
+          "path": "Lighting/Sconce 63.png",
+          "fileName": "Sconce 63.png"
+        },
+        {
+          "path": "Lighting/Sconce 64.png",
+          "fileName": "Sconce 64.png"
+        },
+        {
+          "path": "Lighting/Sconce 65.png",
+          "fileName": "Sconce 65.png"
+        },
+        {
+          "path": "Lighting/Sconce 66.png",
+          "fileName": "Sconce 66.png"
+        },
+        {
+          "path": "Lighting/Sconce 67.png",
+          "fileName": "Sconce 67.png"
+        },
+        {
+          "path": "Lighting/Sconce 68.png",
+          "fileName": "Sconce 68.png"
+        },
+        {
+          "path": "Lighting/Sconce 69.png",
+          "fileName": "Sconce 69.png"
+        },
+        {
+          "path": "Lighting/Sconce 7.png",
+          "fileName": "Sconce 7.png"
+        },
+        {
+          "path": "Lighting/Sconce 70.png",
+          "fileName": "Sconce 70.png"
+        },
+        {
+          "path": "Lighting/Sconce 71.png",
+          "fileName": "Sconce 71.png"
+        },
+        {
+          "path": "Lighting/Sconce 72.png",
+          "fileName": "Sconce 72.png"
+        },
+        {
+          "path": "Lighting/Sconce 73.png",
+          "fileName": "Sconce 73.png"
+        },
+        {
+          "path": "Lighting/Sconce 74.png",
+          "fileName": "Sconce 74.png"
+        },
+        {
+          "path": "Lighting/Sconce 75.png",
+          "fileName": "Sconce 75.png"
+        },
+        {
+          "path": "Lighting/Sconce 76.png",
+          "fileName": "Sconce 76.png"
+        },
+        {
+          "path": "Lighting/Sconce 77.png",
+          "fileName": "Sconce 77.png"
+        },
+        {
+          "path": "Lighting/Sconce 78.png",
+          "fileName": "Sconce 78.png"
+        },
+        {
+          "path": "Lighting/Sconce 79.png",
+          "fileName": "Sconce 79.png"
+        },
+        {
+          "path": "Lighting/Sconce 8.png",
+          "fileName": "Sconce 8.png"
+        },
+        {
+          "path": "Lighting/Sconce 80.png",
+          "fileName": "Sconce 80.png"
+        },
+        {
+          "path": "Lighting/Sconce 81.png",
+          "fileName": "Sconce 81.png"
+        },
+        {
+          "path": "Lighting/Sconce 82.png",
+          "fileName": "Sconce 82.png"
+        },
+        {
+          "path": "Lighting/Sconce 83.png",
+          "fileName": "Sconce 83.png"
+        },
+        {
+          "path": "Lighting/Sconce 84.png",
+          "fileName": "Sconce 84.png"
+        },
+        {
+          "path": "Lighting/Sconce 85.png",
+          "fileName": "Sconce 85.png"
+        },
+        {
+          "path": "Lighting/Sconce 86.png",
+          "fileName": "Sconce 86.png"
+        },
+        {
+          "path": "Lighting/Sconce 87.png",
+          "fileName": "Sconce 87.png"
+        },
+        {
+          "path": "Lighting/Sconce 88.png",
+          "fileName": "Sconce 88.png"
+        },
+        {
+          "path": "Lighting/Sconce 89.png",
+          "fileName": "Sconce 89.png"
+        },
+        {
+          "path": "Lighting/Sconce 9.png",
+          "fileName": "Sconce 9.png"
+        },
+        {
+          "path": "Lighting/Sconce 90.png",
+          "fileName": "Sconce 90.png"
+        },
+        {
+          "path": "Lighting/Sconce 91.png",
+          "fileName": "Sconce 91.png"
+        },
+        {
+          "path": "Lighting/Sconce 92.png",
+          "fileName": "Sconce 92.png"
+        },
+        {
+          "path": "Lighting/Sconce 93.png",
+          "fileName": "Sconce 93.png"
+        },
+        {
+          "path": "Lighting/Sconce 94.png",
+          "fileName": "Sconce 94.png"
+        },
+        {
+          "path": "Lighting/Sconce 95.png",
+          "fileName": "Sconce 95.png"
+        },
+        {
+          "path": "Lighting/Sconce 96.png",
+          "fileName": "Sconce 96.png"
+        },
+        {
+          "path": "Lighting/Sconce 97.png",
+          "fileName": "Sconce 97.png"
+        },
+        {
+          "path": "Lighting/Sconce 98.png",
+          "fileName": "Sconce 98.png"
+        },
+        {
+          "path": "Lighting/Sconce 99.png",
+          "fileName": "Sconce 99.png"
+        },
+        {
+          "path": "Lighting/Sconce Silo frt.png",
+          "fileName": "Sconce Silo frt.png"
+        },
+        {
+          "path": "Lighting/Table Lamp Det 1.png",
+          "fileName": "Table Lamp Det 1.png"
+        },
+        {
+          "path": "Lighting/Table Lamp Det 2.png",
+          "fileName": "Table Lamp Det 2.png"
+        },
+        {
+          "path": "Lighting/Table Lamp Det 3.png",
+          "fileName": "Table Lamp Det 3.png"
+        },
+        {
+          "path": "Lighting/Table Lamp Det 4.png",
+          "fileName": "Table Lamp Det 4.png"
+        },
+        {
+          "path": "Lighting/Table Lamp Det 5.png",
+          "fileName": "Table Lamp Det 5.png"
+        },
+        {
+          "path": "Lighting/Table Lamp Det 6.png",
+          "fileName": "Table Lamp Det 6.png"
+        },
+        {
+          "path": "Lighting/Table Lamp lfs 1.png",
+          "fileName": "Table Lamp lfs 1.png"
+        },
+        {
+          "path": "Lighting/Table Lamp lfs 2.png",
+          "fileName": "Table Lamp lfs 2.png"
+        },
+        {
+          "path": "Lighting/Table Lamp lfs 3.png",
+          "fileName": "Table Lamp lfs 3.png"
+        },
+        {
+          "path": "Lighting/Table Lamp lfs 4.png",
+          "fileName": "Table Lamp lfs 4.png"
+        },
+        {
+          "path": "Lighting/Table Lamp lfs 5.png",
+          "fileName": "Table Lamp lfs 5.png"
+        },
+        {
+          "path": "Lighting/Table Lamp lfs 6.png",
+          "fileName": "Table Lamp lfs 6.png"
+        },
+        {
+          "path": "Lighting/Table Lamp lfs 7.png",
+          "fileName": "Table Lamp lfs 7.png"
+        },
+        {
+          "path": "Lighting/Table Lamp lfs 8.png",
+          "fileName": "Table Lamp lfs 8.png"
+        },
+        {
+          "path": "Lighting/Table Lamp Silo frt.png",
+          "fileName": "Table Lamp Silo frt.png"
+        },
+        {
+          "path": "Lighting/Table Lamp Silo top.png",
+          "fileName": "Table Lamp Silo top.png"
+        }
+      ]
+    },
+    {
+      "id": "Mattress",
+      "name": "Mattress",
+      "images": [
+        {
+          "path": "Mattress/Mattress 1.jpg",
+          "fileName": "Mattress 1.jpg"
+        },
+        {
+          "path": "Mattress/Mattress 2.jpg",
+          "fileName": "Mattress 2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "Outdoor",
+      "name": "Outdoor",
+      "images": [
+        {
+          "path": "Outdoor/Fire Pit Det 1.png",
+          "fileName": "Fire Pit Det 1.png"
+        },
+        {
+          "path": "Outdoor/Fire Pit Det 2.png",
+          "fileName": "Fire Pit Det 2.png"
+        },
+        {
+          "path": "Outdoor/Fire Pit Silo bck.png",
+          "fileName": "Fire Pit Silo bck.png"
+        },
+        {
+          "path": "Outdoor/Fire Pit Silo frt.png",
+          "fileName": "Fire Pit Silo frt.png"
+        },
+        {
+          "path": "Outdoor/Fire Pit Silo on.png",
+          "fileName": "Fire Pit Silo on.png"
+        },
+        {
+          "path": "Outdoor/Fire Pit Silo qtr.png",
+          "fileName": "Fire Pit Silo qtr.png"
+        },
+        {
+          "path": "Outdoor/Fire Pit Silo sid.png",
+          "fileName": "Fire Pit Silo sid.png"
+        },
+        {
+          "path": "Outdoor/Fire Pit Silo top.png",
+          "fileName": "Fire Pit Silo top.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Det 1.png",
+          "fileName": "Grill 1 Det 1.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Det 2.png",
+          "fileName": "Grill 1 Det 2.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Det 3.png",
+          "fileName": "Grill 1 Det 3.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Det 4.png",
+          "fileName": "Grill 1 Det 4.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Det 5.png",
+          "fileName": "Grill 1 Det 5.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Det 6.png",
+          "fileName": "Grill 1 Det 6.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Silo bck.png",
+          "fileName": "Grill 1 Silo bck.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Silo frt.png",
+          "fileName": "Grill 1 Silo frt.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Silo qtr.png",
+          "fileName": "Grill 1 Silo qtr.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Silo sid.png",
+          "fileName": "Grill 1 Silo sid.png"
+        },
+        {
+          "path": "Outdoor/Grill 1 Silo top.png",
+          "fileName": "Grill 1 Silo top.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Det 1.png",
+          "fileName": "Grill 2 Det 1.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Det 2.png",
+          "fileName": "Grill 2 Det 2.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Det 3.png",
+          "fileName": "Grill 2 Det 3.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Det 4.png",
+          "fileName": "Grill 2 Det 4.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Det 5.png",
+          "fileName": "Grill 2 Det 5.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Det 6.png",
+          "fileName": "Grill 2 Det 6.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Silo frt.png",
+          "fileName": "Grill 2 Silo frt.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Silo open.png",
+          "fileName": "Grill 2 Silo open.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Silo qtr.png",
+          "fileName": "Grill 2 Silo qtr.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Silo sid.png",
+          "fileName": "Grill 2 Silo sid.png"
+        },
+        {
+          "path": "Outdoor/Grill 2 Silo Top.png",
+          "fileName": "Grill 2 Silo Top.png"
+        },
+        {
+          "path": "Outdoor/Table Set Det 1.png",
+          "fileName": "Table Set Det 1.png"
+        },
+        {
+          "path": "Outdoor/Table Set Det 2.png",
+          "fileName": "Table Set Det 2.png"
+        },
+        {
+          "path": "Outdoor/Table Set Det 3.png",
+          "fileName": "Table Set Det 3.png"
+        },
+        {
+          "path": "Outdoor/Table Set Det 4.png",
+          "fileName": "Table Set Det 4.png"
+        },
+        {
+          "path": "Outdoor/Table Set Det 5.png",
+          "fileName": "Table Set Det 5.png"
+        },
+        {
+          "path": "Outdoor/Table Set Det 6.png",
+          "fileName": "Table Set Det 6.png"
+        },
+        {
+          "path": "Outdoor/Table Set Silo - Chair only.png",
+          "fileName": "Table Set Silo - Chair only.png"
+        },
+        {
+          "path": "Outdoor/Table Set Silo - Table only.png",
+          "fileName": "Table Set Silo - Table only.png"
+        },
+        {
+          "path": "Outdoor/Table Set Silo frt.png",
+          "fileName": "Table Set Silo frt.png"
+        },
+        {
+          "path": "Outdoor/Table Set Silo qtr.png",
+          "fileName": "Table Set Silo qtr.png"
+        },
+        {
+          "path": "Outdoor/Table Set Silo top.png",
+          "fileName": "Table Set Silo top.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Det 1.png",
+          "fileName": "Umbrella Det 1.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Det 2.png",
+          "fileName": "Umbrella Det 2.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Det 3.png",
+          "fileName": "Umbrella Det 3.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Det 4.png",
+          "fileName": "Umbrella Det 4.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Det 5.png",
+          "fileName": "Umbrella Det 5.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Det 6.png",
+          "fileName": "Umbrella Det 6.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Lfs 1.png",
+          "fileName": "Umbrella Lfs 1.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Lfs 2.png",
+          "fileName": "Umbrella Lfs 2.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Lfs 3.png",
+          "fileName": "Umbrella Lfs 3.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Lfs 4.png",
+          "fileName": "Umbrella Lfs 4.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Lfs 5.png",
+          "fileName": "Umbrella Lfs 5.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Lfs 6.png",
+          "fileName": "Umbrella Lfs 6.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Lfs 8.png",
+          "fileName": "Umbrella Lfs 8.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Silo closed.png",
+          "fileName": "Umbrella Silo closed.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Silo frt.png",
+          "fileName": "Umbrella Silo frt.png"
+        },
+        {
+          "path": "Outdoor/Umbrella Silo top.png",
+          "fileName": "Umbrella Silo top.png"
+        }
+      ]
+    },
+    {
+      "id": "Personal Care",
+      "name": "Personal Care",
+      "images": [
+        {
+          "path": "Personal Care/Lipstick Det 1.png",
+          "fileName": "Lipstick Det 1.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Lfs 1.png",
+          "fileName": "Lipstick Lfs 1.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Lfs 2.png",
+          "fileName": "Lipstick Lfs 2.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Lfs 3.png",
+          "fileName": "Lipstick Lfs 3.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Lfs 4.png",
+          "fileName": "Lipstick Lfs 4.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Lfs 5.png",
+          "fileName": "Lipstick Lfs 5.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Lfs 6.png",
+          "fileName": "Lipstick Lfs 6.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Lfs 7.png",
+          "fileName": "Lipstick Lfs 7.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Lfs 8.png",
+          "fileName": "Lipstick Lfs 8.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Silo frt.png",
+          "fileName": "Lipstick Silo frt.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Silo Lid On.png",
+          "fileName": "Lipstick Silo Lid On.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Silo qtr.png",
+          "fileName": "Lipstick Silo qtr.png"
+        },
+        {
+          "path": "Personal Care/Lipstick Silo sid.png",
+          "fileName": "Lipstick Silo sid.png"
+        },
+        {
+          "path": "Personal Care/Lotion Silo sid.png",
+          "fileName": "Lotion Silo sid.png"
+        },
+        {
+          "path": "Personal Care/Perfume 1.png",
+          "fileName": "Perfume 1.png"
+        },
+        {
+          "path": "Personal Care/Perfume 10.png",
+          "fileName": "Perfume 10.png"
+        },
+        {
+          "path": "Personal Care/Perfume 11.png",
+          "fileName": "Perfume 11.png"
+        },
+        {
+          "path": "Personal Care/Perfume 12.png",
+          "fileName": "Perfume 12.png"
+        },
+        {
+          "path": "Personal Care/Perfume 13.png",
+          "fileName": "Perfume 13.png"
+        },
+        {
+          "path": "Personal Care/Perfume 14.png",
+          "fileName": "Perfume 14.png"
+        },
+        {
+          "path": "Personal Care/Perfume 15.png",
+          "fileName": "Perfume 15.png"
+        },
+        {
+          "path": "Personal Care/Perfume 16.png",
+          "fileName": "Perfume 16.png"
+        },
+        {
+          "path": "Personal Care/Perfume 17.png",
+          "fileName": "Perfume 17.png"
+        },
+        {
+          "path": "Personal Care/Perfume 18.png",
+          "fileName": "Perfume 18.png"
+        },
+        {
+          "path": "Personal Care/Perfume 19.png",
+          "fileName": "Perfume 19.png"
+        },
+        {
+          "path": "Personal Care/Perfume 2.png",
+          "fileName": "Perfume 2.png"
+        },
+        {
+          "path": "Personal Care/Perfume 20.png",
+          "fileName": "Perfume 20.png"
+        },
+        {
+          "path": "Personal Care/Perfume 21.png",
+          "fileName": "Perfume 21.png"
+        },
+        {
+          "path": "Personal Care/Perfume 22.png",
+          "fileName": "Perfume 22.png"
+        },
+        {
+          "path": "Personal Care/Perfume 23.png",
+          "fileName": "Perfume 23.png"
+        },
+        {
+          "path": "Personal Care/Perfume 24.png",
+          "fileName": "Perfume 24.png"
+        },
+        {
+          "path": "Personal Care/Perfume 25.png",
+          "fileName": "Perfume 25.png"
+        },
+        {
+          "path": "Personal Care/Perfume 26.png",
+          "fileName": "Perfume 26.png"
+        },
+        {
+          "path": "Personal Care/Perfume 27.png",
+          "fileName": "Perfume 27.png"
+        },
+        {
+          "path": "Personal Care/Perfume 28.png",
+          "fileName": "Perfume 28.png"
+        },
+        {
+          "path": "Personal Care/Perfume 29.png",
+          "fileName": "Perfume 29.png"
+        },
+        {
+          "path": "Personal Care/Perfume 3.png",
+          "fileName": "Perfume 3.png"
+        },
+        {
+          "path": "Personal Care/Perfume 30.png",
+          "fileName": "Perfume 30.png"
+        },
+        {
+          "path": "Personal Care/Perfume 31.png",
+          "fileName": "Perfume 31.png"
+        },
+        {
+          "path": "Personal Care/Perfume 32.png",
+          "fileName": "Perfume 32.png"
+        },
+        {
+          "path": "Personal Care/Perfume 33.png",
+          "fileName": "Perfume 33.png"
+        },
+        {
+          "path": "Personal Care/Perfume 34.png",
+          "fileName": "Perfume 34.png"
+        },
+        {
+          "path": "Personal Care/Perfume 35.png",
+          "fileName": "Perfume 35.png"
+        },
+        {
+          "path": "Personal Care/Perfume 36.png",
+          "fileName": "Perfume 36.png"
+        },
+        {
+          "path": "Personal Care/Perfume 4.png",
+          "fileName": "Perfume 4.png"
+        },
+        {
+          "path": "Personal Care/Perfume 5.png",
+          "fileName": "Perfume 5.png"
+        },
+        {
+          "path": "Personal Care/Perfume 6.png",
+          "fileName": "Perfume 6.png"
+        },
+        {
+          "path": "Personal Care/Perfume 7.png",
+          "fileName": "Perfume 7.png"
+        },
+        {
+          "path": "Personal Care/Perfume 8.png",
+          "fileName": "Perfume 8.png"
+        },
+        {
+          "path": "Personal Care/Perfume 9.png",
+          "fileName": "Perfume 9.png"
+        },
+        {
+          "path": "Personal Care/Powder Det 1.png",
+          "fileName": "Powder Det 1.png"
+        },
+        {
+          "path": "Personal Care/Powder Det 2.png",
+          "fileName": "Powder Det 2.png"
+        },
+        {
+          "path": "Personal Care/Powder Det 3.png",
+          "fileName": "Powder Det 3.png"
+        },
+        {
+          "path": "Personal Care/Powder Det 4.png",
+          "fileName": "Powder Det 4.png"
+        },
+        {
+          "path": "Personal Care/Powder Det 5.png",
+          "fileName": "Powder Det 5.png"
+        },
+        {
+          "path": "Personal Care/Powder Det 6.png",
+          "fileName": "Powder Det 6.png"
+        },
+        {
+          "path": "Personal Care/Powder Silo 2.png",
+          "fileName": "Powder Silo 2.png"
+        },
+        {
+          "path": "Personal Care/Powder Silo 3.png",
+          "fileName": "Powder Silo 3.png"
+        },
+        {
+          "path": "Personal Care/Powder Silo 4.png",
+          "fileName": "Powder Silo 4.png"
+        },
+        {
+          "path": "Personal Care/Powder Silo 5.png",
+          "fileName": "Powder Silo 5.png"
+        },
+        {
+          "path": "Personal Care/Powder Silo frt.png",
+          "fileName": "Powder Silo frt.png"
+        }
+      ]
+    },
+    {
+      "id": "Rugs",
+      "name": "Rugs",
+      "images": [
+        {
+          "path": "Rugs/Abstract Rug Det 1.png",
+          "fileName": "Abstract Rug Det 1.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Det 2.png",
+          "fileName": "Abstract Rug Det 2.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Det 3.png",
+          "fileName": "Abstract Rug Det 3.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Det 4.png",
+          "fileName": "Abstract Rug Det 4.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Det 5.png",
+          "fileName": "Abstract Rug Det 5.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Det 6.png",
+          "fileName": "Abstract Rug Det 6.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Lfs 1.png",
+          "fileName": "Abstract Rug Lfs 1.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Lfs 2.png",
+          "fileName": "Abstract Rug Lfs 2.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Lfs 3.png",
+          "fileName": "Abstract Rug Lfs 3.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Lfs 4.png",
+          "fileName": "Abstract Rug Lfs 4.png"
+        },
+        {
+          "path": "Rugs/Abstract Rug Silo top.png",
+          "fileName": "Abstract Rug Silo top.png"
+        },
+        {
+          "path": "Rugs/Jute Rug Det 1.png",
+          "fileName": "Jute Rug Det 1.png"
+        },
+        {
+          "path": "Rugs/Jute Rug Det 2.png",
+          "fileName": "Jute Rug Det 2.png"
+        },
+        {
+          "path": "Rugs/Jute Rug Det 3.png",
+          "fileName": "Jute Rug Det 3.png"
+        },
+        {
+          "path": "Rugs/Jute Rug Det 4.png",
+          "fileName": "Jute Rug Det 4.png"
+        },
+        {
+          "path": "Rugs/Jute Rug Det 5.png",
+          "fileName": "Jute Rug Det 5.png"
+        },
+        {
+          "path": "Rugs/Jute Rug Lfs 1.png",
+          "fileName": "Jute Rug Lfs 1.png"
+        },
+        {
+          "path": "Rugs/Jute Rug Silo Top.png",
+          "fileName": "Jute Rug Silo Top.png"
+        },
+        {
+          "path": "Rugs/Shag Rug Silo top.png",
+          "fileName": "Shag Rug Silo top.png"
+        },
+        {
+          "path": "Rugs/Woven Rug Silo top.png",
+          "fileName": "Woven Rug Silo top.png"
+        }
+      ]
+    },
+    {
+      "id": "Textiles",
+      "name": "Textiles",
+      "images": [
+        {
+          "path": "Textiles/Duvet Set Silo 1.png",
+          "fileName": "Duvet Set Silo 1.png"
+        },
+        {
+          "path": "Textiles/Pillow Silo frt.png",
+          "fileName": "Pillow Silo frt.png"
+        },
+        {
+          "path": "Textiles/Towels Silo frt.png",
+          "fileName": "Towels Silo frt.png"
+        },
+        {
+          "path": "Textiles/Towels.jpg",
+          "fileName": "Towels.jpg"
+        }
+      ]
+    }
+  ]
+}
